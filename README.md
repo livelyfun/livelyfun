@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @livelyfun
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in learning new things, traveling,watching anime and manhwa
+- 🌱 Programming language I'm currently learning : flutter,c,c++,MySql
 - 📫 How to reach me dasmithlesh56@gmail.com
 - 😄 Fun Facts: ...
              * Fun fact: Coding has over 700 languages. 
