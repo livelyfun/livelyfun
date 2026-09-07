@@ -1,41 +1,43 @@
 # Hi, I'm Mithlesh 👋
 
-I'm a BIT undergraduate and aspiring Software Developer based in Nepal.
+I'm a BIT undergraduate and aspiring backend & full-stack developer based in Biratnagar, Nepal, studying Computer and Information Sciences at MMAMC (2023–2027).
 
-I enjoy building practical software across backend, full-stack, desktop, CLI, automation, and AI applications.
+I enjoy building practical software across backend, full-stack, desktop, CLI, automation, and AI applications — and I'm currently deepening my web development skills end-to-end (HTML → CSS → JS → PHP → SQL → full-stack).
 
-### What I work with
+## 🛠️ What I work with
 
-* Python
-* JavaScript / TypeScript
-* React.js / Next.js
-* REST APIs / GraphQL
-* Firebase
-* PySide6 / Electron
-* Git / GitHub
-* pytest
-* GitHub Actions / CI/CD
-* Docker fundamentals
+**Languages & Frameworks**
+- Python
+- JavaScript / TypeScript
+- React.js / Next.js
+- Tailwind CSS / Framer Motion
 
-### Featured Projects
+**Backend & Data**
+- REST APIs / GraphQL
+- Firebase
+- SQL
 
-🚀 **Smart File Organizer**
-Cross-platform CLI utility that automatically organizes files in Downloads.
+**Desktop & Tooling**
+- PySide6 / Electron
+- Git / GitHub
+- pytest
+- GitHub Actions / CI/CD
+- Docker fundamentals
 
-🧮 **Kira Calculator**
-Scientific calculator and expression engine built with Python and PySide6.
+## 🚀 Featured Projects
 
-📺 **YT Downloader**
-Electron + React desktop application powered by yt-dlp and FFmpeg.
+| Project | Description |
+|---|---|
+| 🗂️ **Smart File Organizer** | Cross-platform desktop app that automatically organizes files in Downloads. |
+| 🧮 **Kira Calculator** | Scientific calculator and expression engine built with Python and PySide6. |
+| 📺 **YT Downloader** | Electron + React desktop application powered by yt-dlp and FFmpeg. |
+| 🤖 **AI Reel Studio** | AI-powered short-form content generation project using Gemini and modern web technologies. |
 
-🤖 **AI Reel Studio**
-AI-powered short-form content generation project using Gemini and modern web technologies.
+## 🌐 Connect
 
-### Connect
-
-🌐 Portfolio: https://mithesh.netlify.app/
-💼 LinkedIn: https://www.linkedin.com/in/mithlesh-das-876973343/
-🐙 GitHub: https://github.com/livelyfun
+- Portfolio: [mithesh.netlify.app](https://mithesh.netlify.app/)
+- LinkedIn: [mithlesh-das-876973343](https://www.linkedin.com/in/mithlesh-das-876973343/)
+- GitHub: [@livelyfun](https://github.com/livelyfun)
 
 <!---
 livelyfun/livelyfun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
