@@ -18,7 +18,12 @@ Currently open to **junior roles, internships, and cool collaborations**.
 
 **Backend**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,nodejs,graphql,firebase" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,graphql" />
+</p>
+
+**Database**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 **Desktop**
@@ -34,3 +39,32 @@ Currently open to **junior roles, internships, and cool collaborations**.
 ---
 
 ### 🚀 Stuff I’ve Built
+Project,Description,Stack
+Smart File Organizer CLI,"Watches your Downloads folder and auto-sorts everything (Images, Videos, PDFs, Code…) with zero drama",Python · watchdog · pytest
+AI Reel Studio,Turn a text prompt into Instagram Reels / YouTube Shorts using Gemini AI,TypeScript · React · Gemini
+Kira Calculator,Real scientific calculator with expression engine + full test coverage,Python · PySide6 · pytest
+YT Downloader,"Clean desktop YouTube downloader with progress, quality selection & FFmpeg",Electron · React · yt-dlp
+
+
+---
+
+### 🌐 Let’s connect
+
+<p align="left">
+<a href="https://mithesh.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mithlesh-das-876973343/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/livelyfun">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mithleshkumardas527@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+*Thanks for dropping by. Star a repo or say hi — always down to chat code 🚀*
