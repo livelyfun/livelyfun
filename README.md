@@ -23,7 +23,7 @@ Currently open to **junior roles, internships, and cool collaborations**.
 
 **Database**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
 **Desktop**
@@ -39,6 +39,7 @@ Currently open to **junior roles, internships, and cool collaborations**.
 ---
 
 ### 🚀 Stuff I’ve Built
+
 Project,Description,Stack
 Smart File Organizer CLI,"Watches your Downloads folder and auto-sorts everything (Images, Videos, PDFs, Code…) with zero drama",Python · watchdog · pytest
 AI Reel Studio,Turn a text prompt into Instagram Reels / YouTube Shorts using Gemini AI,TypeScript · React · Gemini
