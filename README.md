@@ -40,12 +40,12 @@ Currently open to **junior roles, internships, and cool collaborations**.
 
 ### 🚀 Stuff I’ve Built
 
-Project,Description,Stack
-Smart File Organizer CLI,"Watches your Downloads folder and auto-sorts everything (Images, Videos, PDFs, Code…) with zero drama",Python · watchdog · pytest
-AI Reel Studio,Turn a text prompt into Instagram Reels / YouTube Shorts using Gemini AI,TypeScript · React · Gemini
-Kira Calculator,Real scientific calculator with expression engine + full test coverage,Python · PySide6 · pytest
-YT Downloader,"Clean desktop YouTube downloader with progress, quality selection & FFmpeg",Electron · React · yt-dlp
-
+| Project                                                                               | Description                                                                                           | Stack                       |
+| :------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- | :-------------------------- |
+| **[Smart File Organizer CLI](https://github.com/livelyfun/Smart-File-Organizer-CLI)** | Watches your Downloads folder and auto-sorts everything (Images, Videos, PDFs, Code…) with zero drama | Python · watchdog · pytest  |
+| **[AI Reel Studio](https://github.com/livelyfun/AI-Reel-Studio)**                     | Turn a text prompt into Instagram Reels / YouTube Shorts using Gemini AI                              | TypeScript · React · Gemini |
+| **[Kira Calculator](https://github.com/livelyfun/kira-calculator)**                   | Real scientific calculator with expression engine + full test coverage                                | Python · PySide6 · pytest   |
+| **[YT Downloader](https://github.com/livelyfun/youtube-video-downloader)**            | Clean desktop YouTube downloader with progress, quality selection & FFmpeg                            | Electron · React · yt-dlp   |
 
 ---
 
