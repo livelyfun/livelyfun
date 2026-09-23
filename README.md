@@ -5,8 +5,6 @@
 
 I turn ideas into working software — whether it’s a smart CLI that organizes your chaos, a desktop calculator that actually understands math, or an AI tool that makes short-form videos from a single prompt.
 
-Currently open to **junior roles, internships, and cool collaborations**.
-
 ---
 
 ### 🛠️ What I work with
