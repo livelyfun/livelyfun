@@ -1,74 +1,57 @@
 <div align="center">
 
-# Hey, I'm Mithlesh Kumar Das 👋
+# MITHLESH KUMAR DAS
 
 ### Software Developer · Full-Stack · Backend · AI · Automation
 
-<p>
-  <a href="https://mithesh.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/mithlesh_codes/all">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:mithleshkumardas527@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-**BIT undergraduate · Building practical software, experimenting with AI, and learning by shipping.**
+**I build practical software, experiment with new ideas, and learn by shipping.**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Hey, I'm Mithlesh 👋
 
-I’m a developer who likes turning ideas into software people can actually use.
+**BIT undergraduate · Software Developer · Builder of web, desktop & AI-powered tools**  
+📍 Nepal
 
-I build across **full-stack development, backend systems, desktop applications, automation, and AI**. I enjoy taking an idea from a rough concept to something that is functional, polished, and maintainable.
+I’m a developer who likes turning ideas into software people can actually use. I build across **full-stack development, backend systems, desktop apps, automation, and AI**, with a focus on practical tools that solve real problems.
 
-I care about more than just making code work. I like understanding **why a system works, how it can scale, how users experience it, and how to make the next version better.**
+I enjoy the whole process — from a rough idea and a broken first version to a product that feels polished, reliable, and worth using.
 
 **Currently exploring:** AI engineering · backend architecture · automation · product-focused full-stack development
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Full-Stack Applications
-
-Modern web applications with thoughtful UI, real APIs, authentication, databases, and production-ready architecture.
+### Full-Stack
+Modern interfaces backed by real APIs, databases, authentication and application logic.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Automation
-
-AI-powered tools, workflow automation, intelligent assistants, and systems that turn repetitive work into useful software.
+### AI & Automation
+Tools that combine AI, APIs and workflows to remove repetitive work and turn ideas into useful products.
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖥️ Desktop Software
-
-Cross-platform and Linux-focused desktop applications built with a strong focus on usability and local-first workflows.
+### Desktop
+Local-first applications and desktop tools with an emphasis on usability and reliability.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Backend & Systems
-
-APIs, databases, real-time data, integrations, testing, containers, and the infrastructure needed to make applications dependable.
+### Backend & Systems
+APIs, databases, real-time systems, integrations, testing, containers and deployment.
 
 </td>
 </tr>
@@ -76,163 +59,168 @@ APIs, databases, real-time data, integrations, testing, containers, and the infr
 
 ---
 
-## 🧩 Featured Projects
+## Selected Work
 
-### 📈 StockMatrix — Multi-Market Stock Dashboard
+### `01` — StockMatrix
 
-A full-stack stock tracking terminal with real-time WebSocket updates, interactive charts, price alerts, multi-market coverage, currency conversion, internationalization, and authentication.
+**Multi-Market Real-Time Stock Dashboard**
 
-**React · TypeScript · Vite · FastAPI · PostgreSQL/SQLite · WebSockets · Docker**
+A full-stack market dashboard built around real-time data, interactive charts and customizable tracking.
 
-[→ View repository](https://github.com/livelyfun/Track-the-stock-market)
+**React · TypeScript · Vite · FastAPI · WebSockets · Docker**
 
----
-
-### 📂 Smart File Organizer
-
-A lightweight cross-platform utility that watches a Downloads directory and automatically organizes files into categories.
-
-Includes standalone builds, update checking, custom directories, configuration support, and automated tests.
-
-**Python · watchdog · pytest · Packaging**
-
-[→ View repository](https://github.com/livelyfun/Smart-File-Organizer-CLI)
+[View project →](https://github.com/livelyfun/Track-the-stock-market)
 
 ---
 
-### 🎬 AI Reel Studio
+### `02` — Smart File Organizer
 
-An AI-focused project exploring how a simple text idea can become short-form video content for platforms such as Instagram Reels and YouTube Shorts.
+**A Downloads folder that organizes itself.**
 
-**TypeScript · React · Gemini**
+A lightweight utility that watches a directory and automatically sorts files into categories. Includes packaging, update checking, configurable directories and tests.
 
-[→ View repository](https://github.com/livelyfun/AI-Reel-Studio)
+**Python · watchdog · pytest**
+
+[View project →](https://github.com/livelyfun/Smart-File-Organizer-CLI)
 
 ---
 
-### 🧮 Kira Calculator
+### `03` — AI Reel Studio
 
-A desktop scientific calculator built around a custom expression engine, with a graphical interface and automated testing.
+**From an idea to short-form content.**
+
+An AI-powered project exploring generation workflows for Instagram Reels and YouTube Shorts.
+
+**TypeScript · React · Gemini · Express**
+
+[View project →](https://github.com/livelyfun/AI-Reel-Studio)
+
+---
+
+### `04` — Kira Calculator
+
+**A calculator built as an actual software project.**
+
+A scientific desktop calculator with a custom expression engine, graphical interface and automated testing.
 
 **Python · PySide6 · pytest**
 
-[→ View repository](https://github.com/livelyfun/kira-calculator)
+[View project →](https://github.com/livelyfun/kira-calculator)
 
 ---
 
-### 📺 YT Downloader
+### `05` — 3D Portfolio
 
-A Linux desktop application for downloading YouTube media with metadata extraction, format selection, live progress, local history, dependency checks, and Debian packaging.
+**A more immersive way to present a developer.**
 
-**Electron · React · Tailwind CSS · yt-dlp · FFmpeg**
+An experimental portfolio exploring 3D interaction, motion and spatial web experiences.
 
-[→ View repository](https://github.com/livelyfun/youtube-video-downloader)
+**Next.js · React · Three.js · React Three Fiber · Motion · TypeScript**
 
----
-
-### 🎨 3D Portfolio
-
-An experimental 3D portfolio project exploring interactive presentation, motion, and immersive web experiences.
-
-**React · 3D Web**
-
-[→ View repository](https://github.com/livelyfun/3d-portfolio)
+[View project →](https://github.com/livelyfun/3d-portfolio)
 
 ---
 
-## 🛠️ Tech Stack
+## Client Work
 
-### Languages
+### Melbourne Property Management & Services
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
-</p>
+A production website rebuild for a Melbourne-based property services company, focused on stronger presentation, responsive design and SEO-ready structure.
 
-### Frontend
+**Next.js · React · TypeScript · SEO**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer" alt="Frontend" />
-</p>
+[View project →](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
 
-### Backend & APIs
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" alt="Backend" />
-</p>
+## Technologies
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite" alt="Databases" />
-</p>
-
-### Desktop
-
-<p>
-<img src="https://skillicons.dev/icons?i=electron,qt" alt="Desktop" />
-</p>
-
-### DevOps, Testing & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,postman,pytest" alt="Tools" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,vite,tailwind,postgres,mongodb,sqlite,electron,qt,docker,linux,git,githubactions,postman" />
 </p>
 
 ---
 
-## 🧠 What I'm Learning
+## How I Like to Build
 
-I’m continuously working on the parts of software development that become more important as projects grow:
+```text
+IDEA
+  ↓
+prototype
+  ↓
+break it
+  ↓
+understand why
+  ↓
+fix it
+  ↓
+test it
+  ↓
+ship it
+  ↓
+make it better
+```
 
-**AI engineering** → building useful systems around models, APIs, automation, and structured workflows.
-
-**Backend architecture** → designing APIs, data flows, integrations, background jobs, and systems that remain understandable as they grow.
-
-**Production engineering** → testing, packaging, containers, deployment, observability, and the small details that separate a demo from a usable product.
-
-**Product thinking** → better UX, clearer interfaces, stronger SEO, accessibility, and building around real user needs.
+I’m less interested in collecting technologies and more interested in **understanding systems well enough to build something useful with them.**
 
 ---
 
-## 📊 GitHub Activity
+## Currently Learning
+
+`AI Engineering`  
+Building useful applications around models, APIs, automation and structured workflows.
+
+`Backend Architecture`  
+Designing cleaner APIs, data flows, integrations and systems that remain maintainable as they grow.
+
+`Production Engineering`  
+Testing, packaging, containers, deployment and the details that turn projects into usable software.
+
+`Product Thinking`  
+Better UX, accessibility, performance, SEO and building around actual user needs.
+
+---
+
+## A Few Things About Me
+
+```yaml
+education: BIT Undergraduate
+location: Nepal
+interests:
+  - software engineering
+  - artificial intelligence
+  - automation
+  - backend systems
+  - developer tools
+  - product development
+```
+
+I learn best by **building something difficult enough to break**.
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mithlesh's GitHub stats" />
+### Let's Connect
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelyfun&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+<p>
+  <a href="https://mithesh.netlify.app/">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://x.com/mithlesh_codes/all">X</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/livelyfun">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
+</p>
 
-</div>
+<br>
 
----
+**Build something useful. Break it. Learn from it. Build it better.**
 
-## 🧭 A Little More About Me
+<br>
 
-- 🎓 BIT undergraduate
-- 🌍 Based in Nepal
-- 🧠 Interested in software systems, AI, automation, and developer tools
-- 🛠️ Prefer building real projects over collecting tutorials
-- 🧪 Believe testing and good architecture matter
-- 🚀 Still learning, still experimenting, still shipping
-
----
-
-## 🤝 Let's Connect
-
-I’m always interested in **building, collaborating, discussing ideas, and learning from other developers.**
-
-<div align="center">
-
-<a href="https://mithesh.netlify.app/"><b>Portfolio</b></a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><b>LinkedIn</b></a>
-&nbsp; · &nbsp;
-<a href="https://x.com/mithlesh_codes/all"><b>X</b></a>
-&nbsp; · &nbsp;
-<a href="https://github.com/livelyfun"><b>GitHub</b></a>
-
-<br /><br />
-
-<i>Build something useful. Break it. Learn from it. Build it better.</i>
+<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&color=grey" alt="Profile views" />
 
 </div>
