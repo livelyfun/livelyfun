@@ -8,25 +8,28 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,docker,postgresql,linux" />
 </p>
 
-**Building practical software, experimenting with AI, and learning by shipping.**
+**I build practical software, explore AI, and learn by shipping real things.**
+
+<a href="https://mithesh.netlify.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a> ·
+<a href="https://x.com/mithlesh_codes/all">X</a> ·
+<a href="mailto:mithleshkumardas527@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I'm a **BIT undergraduate and software developer from Nepal** who enjoys turning ideas into working products.
 
-My interests sit around:
+My interests are mostly around **full-stack development, backend systems, AI engineering, automation, and desktop applications**.
 
-`Full-Stack Development` · `Backend Systems` · `AI` · `Automation` · `Desktop Apps`
+I learn by building: start with an idea, make it work, break it, understand why it broke, fix it properly, and ship the next version.
 
-I like building things from scratch, understanding how they work, breaking them, fixing them, and making the next version better.
+> **Build → Break → Understand → Fix → Test → Ship → Improve**
 
----
-
-## ⚡ What I Use
+## 🧰 My Toolkit
 
 <table>
 <tr>
@@ -37,7 +40,6 @@ I like building things from scratch, understanding how they work, breaking them,
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🎨 Frontend
@@ -45,7 +47,6 @@ I like building things from scratch, understanding how they work, breaking them,
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 
 </td>
-
 <td align="center" width="25%">
 
 ### ⚙️ Backend
@@ -53,7 +54,6 @@ I like building things from scratch, understanding how they work, breaking them,
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" />
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🗄️ Data
@@ -62,7 +62,6 @@ I like building things from scratch, understanding how they work, breaking them,
 
 </td>
 </tr>
-
 <tr>
 <td align="center">
 
@@ -71,7 +70,6 @@ I like building things from scratch, understanding how they work, breaking them,
 <img src="https://skillicons.dev/icons?i=electron,qt" />
 
 </td>
-
 <td align="center">
 
 ### 🤖 AI
@@ -80,10 +78,9 @@ I like building things from scratch, understanding how they work, breaking them,
 
 <br>
 
-Gemini · AI APIs · Automation
+Gemini · AI APIs · RAG · Automation
 
 </td>
-
 <td align="center">
 
 ### 🚀 DevOps
@@ -91,7 +88,6 @@ Gemini · AI APIs · Automation
 <img src="https://skillicons.dev/icons?i=docker,linux,githubactions" />
 
 </td>
-
 <td align="center">
 
 ### 🧪 Tools
@@ -100,7 +96,7 @@ Gemini · AI APIs · Automation
 
 <br>
 
-pytest
+pytest · OpenCode
 
 </td>
 </tr>
@@ -108,97 +104,27 @@ pytest
 
 ---
 
-## 🚀 Featured Projects
+<!-- AUTO:START -->
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📊 GitHub Snapshot
 
-### 📈 StockMatrix
+_Generated automatically from your public GitHub activity._
 
-Real-time multi-market stock dashboard with interactive charts, WebSockets, price alerts, authentication, currency conversion and Dockerized deployment.
-
-**React · TypeScript · FastAPI · WebSockets**
-
-<a href="https://github.com/livelyfun/Track-the-stock-market">View project →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📂 Smart File Organizer
-
-Cross-platform CLI that automatically watches your Downloads folder and organizes files into categories.
-
-**Python · watchdog · pytest**
-
-<a href="https://github.com/livelyfun/Smart-File-Organizer-CLI">View project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 AI Reel Studio
-
-AI-powered short-form content project exploring prompt-to-video workflows for Reels and Shorts.
-
-**React · TypeScript · Gemini · Express**
-
-<a href="https://github.com/livelyfun/AI-Reel-Studio">View project →</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧮 Kira Calculator
-
-Scientific desktop calculator with a custom expression engine, PySide6 interface and automated testing.
-
-**Python · PySide6 · pytest**
-
-<a href="https://github.com/livelyfun/kira-calculator">View project →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧪 Also Building
-
-<p align="left">
-  <a href="https://github.com/livelyfun/3d-portfolio">
-    <img src="https://img.shields.io/badge/🎨_3D_Portfolio-111827?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/livelyfun/youtube-video-downloader">
-    <img src="https://img.shields.io/badge/📺_YT_Downloader-111827?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-">
-    <img src="https://img.shields.io/badge/🌐_Client_Website-111827?style=for-the-badge" />
-  </a>
-</p>
+<!-- AUTO:END -->
 
 ---
 
 ## 🧠 Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/AI_Engineering-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend_Architecture-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Production_Engineering-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product_Development-DC2626?style=flat-square" />
-</p>
+`AI Engineering` · `Backend Architecture` · `Automation` · `Production Engineering` · `Product Development`
 
 ---
 
-## 🔨 My Approach
+## 🌱 What I'm Building
 
-> **Build → Break → Understand → Fix → Test → Ship → Improve**
+I’m especially interested in software that sits between **useful products and interesting engineering problems**—from business systems and developer tools to AI-powered workflows.
 
-I learn best by working on real projects and solving problems that don't already have a perfect tutorial.
+The goal isn't to collect technologies. It's to get better at building systems that people can actually use.
 
 ---
 
