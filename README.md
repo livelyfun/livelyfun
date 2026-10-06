@@ -205,7 +205,103 @@ Production Engineering
 
 ## 📊 GitHub Snapshot
 
-_Dynamic section — auto-updates daily from your public repos._
+<p>
+  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-3-111827?style=flat-square" />
+</p>
+
+## 🚀 Recent Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [water-stock-management](https://github.com/livelyfun/water-stock-management)
+
+A project built while learning, experimenting, and shipping.
+
+**Mixed / Other** · ⭐ 0 · 🍴 0
+
+<sub>Updated 6 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [stock-management-system](https://github.com/livelyfun/stock-management-system)
+
+A project built while learning, experimenting, and shipping.
+
+**Python** · ⭐ 0 · 🍴 0
+
+<sub>Updated 6 days ago</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [mithi](https://github.com/livelyfun/mithi)
+
+practicing git as a begginer 
+
+**TypeScript** · ⭐ 1 · 🍴 0
+
+<sub>Updated 6 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
+
+A project built while learning, experimenting, and shipping.
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 8 days ago</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
+
+A project built while learning, experimenting, and shipping.
+
+**JavaScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 8 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
+
+A project built while learning, experimenting, and shipping.
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 8 days ago</sub>
+
+</td>
+</tr>
+</table>
+
+## 💻 Most Used Languages
+
+**TypeScript** · 52.3% &nbsp; **Python** · 18.4% &nbsp; **JavaScript** · 13.8% &nbsp; **CSS** · 12.2% &nbsp; **HTML** · 1.7% &nbsp; **Shell** · 0.8% &nbsp; **PowerShell** · 0.4% &nbsp; **Inno Setup** · 0.3%
+
+## 🔥 Recent Public Activity
+
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
+
+<sub>🤖 Generated from public GitHub data. Last sync: 6 Oct 2026, 12:54 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
