@@ -1,89 +1,88 @@
 <div align="center">
 
-# SOFTWARE DEVELOPER
+# Mithlesh Kumar Das
+### Software Developer · AI Engineering · Full-Stack
 
-**AI Engineering · RAG Systems · Full-Stack · Backend · Automation**
+**Building practical systems — from RAG pipelines to real-world ERPs**
 
-<a href="https://mithesh.netlify.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a> · <a href="https://x.com/mithlesh_codes/all">X</a> · <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
+[Portfolio](https://mithesh.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mithlesh-das-876973343/) · [X](https://x.com/mithlesh_codes) · [Email](mailto:mithleshkumardas527@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+### `$ whoami`
 
-I'm a **software developer from Nepal** focused on building useful products and understanding the systems behind them.
+Software developer from **Nepal** focused on shipping useful products and understanding the systems behind them.
 
-My work mainly lives around **full-stack development, backend architecture, AI engineering, RAG systems, automation, and developer tooling**.
+I work across **full-stack development**, **backend architecture**, **AI engineering**, **RAG systems**, and **developer tooling**.
 
-I learn by building: **ship → break → understand → fix → improve**.
+My learning loop is simple:
 
-## `$ stack`
+```
+ship → break → understand → fix → improve
+```
+
+---
+
+### `$ stack`
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Python, TypeScript, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" alt="Node.js, FastAPI, GraphQL" />
+**Backend & AI**  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql,prisma" />
 
-**Data · Infrastructure · Tools**  
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,docker,linux,git,github" alt="PostgreSQL, MongoDB, SQLite, Docker, Linux, Git, GitHub" />
+**Data · Infra · Tools**  
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,docker,linux,git,github" />
 
-## `$ projects`
+---
 
-### Water Factory ERP
+### `$ projects`
 
-Warehouse-scoped inventory, delivery, returns, payments, and operational workflows for a real water business.
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Water Factory ERP** | Warehouse-scoped inventory, delivery, returns, payments & operational workflows for a real water business | Next.js · TypeScript · PostgreSQL · Prisma · RAG | [Repo](https://github.com/livelyfun/stock-management-system) |
+| **AI Reel Studio** | End-to-end platform that turns a text prompt into Instagram Reels / YouTube Shorts | TypeScript · React · Gemini · Vite | [Repo](https://github.com/livelyfun/AI-Reel-Studio) · [Live](https://ai-reel-studio-eta.vercel.app/) |
+| **StockMatrix** | Multi-market real-time stock dashboard with WebSockets, charts, alerts & multi-currency support | TypeScript · FastAPI · React · WebSockets | [Repo](https://github.com/livelyfun/Track-the-stock-market) |
+| **Smart File Organizer CLI** | Watches your Downloads folder and auto-sorts files by type with zero drama | Python · watchdog · pytest | [Repo](https://github.com/livelyfun/Smart-File-Organizer-CLI) |
+| **Melbourne Property Management** | Clean, responsive business website for a Melbourne property management company | TypeScript · Next.js · Vercel | [Live](https://mpm-services.vercel.app/) |
+| **YouTube Video Downloader** | Native desktop YouTube downloader with progress, quality selection & FFmpeg | Electron · JavaScript | [Repo](https://github.com/livelyfun/youtube-video-downloader) |
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `RAG`
+---
 
-[View repository →](https://github.com/livelyfun/stock-management-system)
+### `$ focus`
 
-### Mamta Hotel AI Studio
+```
+AI Engineering          ·  RAG & Knowledge Systems
+Backend Architecture    ·  Automation
+Product Development     ·  Developer Tooling
+Production Engineering
+```
 
-Hotel website platform with structured content, polished UI, and AI-assisted development workflows.
+---
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+### `$ stats`
 
-[View repository →](https://github.com/livelyfun/Mamta-hotel-ai-studio)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelyfun&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-### Melbourne Property Management
+---
 
-Responsive business website for a Melbourne property management and services company.
+### `$ philosophy`
 
-`TypeScript` `Frontend` `Responsive UI` `Vercel`
-
-[View live project →](https://mpm-services.vercel.app/)
-
-### YouTube Video Downloader
-
-Desktop application focused on a native, Linux-friendly downloading experience.
-
-`Electron` `JavaScript` `Desktop`
-
-[View repository →](https://github.com/livelyfun/youtube-video-downloader)
-
-## `$ focus`
-
-`AI Engineering` · `RAG & Knowledge Systems`  
-`Backend Architecture` · `Automation`  
-`Product Development` · `Developer Tooling`  
-`Production Engineering`
-
-## `$ philosophy`
-
-> Build things that are useful.
->
-> Understand why they work.
->
+> Build things that are useful.  
+> Understand why they work.  
 > Learn fastest when something breaks.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=Profile+Views&color=0e75b6" />
 
 **Building practical software, one system at a time.**
 
