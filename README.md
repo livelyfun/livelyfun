@@ -201,10 +201,22 @@ Production Engineering
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-> *Snake may take a day or two to appear after first setup*
+---
+
+<!-- AUTO:START -->
+
+## 📊 GitHub Snapshot
+
+_Dynamic section — auto-updates daily from your public repos._
+
+<!-- AUTO:END -->
 
 ---
 
