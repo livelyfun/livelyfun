@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshkumardas527@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livelyfun)
 
-<img src="https://komarev.com/ghpvc/?username=livelyfun&style=for-the-badge&label=Profile+Views&color=58A6FF" alt="Profile views" />
+![Profile views](https://visitcount.itsvg.in/api?id=livelyfun&label=Profile%20Views&color=0&icon=0&pretty=true)
 
 </div>
 
@@ -39,8 +39,8 @@ ship → break → understand → fix → improve
 ### 🔭 Currently Building
 
 - 💧 **Water Factory ERP** — inventory, delivery & operational workflows with RAG
-- 🎬 **AI Reel Studio** — prompt → short-form video pipeline
 - 📈 **StockMatrix** — real-time multi-market stock terminal
+- 🗂️ **Smart File Organizer CLI** — cross-platform auto-sorting with better rules & tests
 
 ---
 
@@ -98,7 +98,6 @@ End-to-end platform that turns a single text prompt into Instagram Reels / YouTu
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/AI-Reel-Studio)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://ai-reel-studio-eta.vercel.app/)
 
 </td>
 </tr>
@@ -172,7 +171,7 @@ Production Engineering
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=livelyfun&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=livelyfun&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ---
@@ -180,12 +179,12 @@ Production Engineering
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelyfun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=livelyfun&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=livelyfun&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
@@ -193,7 +192,7 @@ Production Engineering
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livelyfun&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livelyfun&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -208,109 +207,15 @@ Production Engineering
   </picture>
 </p>
 
+<sub>Snake appears after the Generate Snake workflow runs once (Actions → Generate Snake → Run workflow).</sub>
+
 ---
 
 <!-- AUTO:START -->
 
 ## 📊 GitHub Snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-2-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [water-stock-management](https://github.com/livelyfun/water-stock-management)
-
-A project built while learning, experimenting, and shipping.
-
-**Mixed / Other** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system](https://github.com/livelyfun/stock-management-system)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 7 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**JavaScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 52.3% &nbsp; **Python** · 18.4% &nbsp; **JavaScript** · 13.8% &nbsp; **CSS** · 12.2% &nbsp; **HTML** · 1.7% &nbsp; **Shell** · 0.8% &nbsp; **PowerShell** · 0.4% &nbsp; **Inno Setup** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-
-<sub>🤖 Generated from public GitHub data. Last sync: 6 Oct 2026, 12:37 (Asia/Kathmandu).</sub>
+_Dynamic section — auto-updates daily from your public repos._
 
 <!-- AUTO:END -->
 
