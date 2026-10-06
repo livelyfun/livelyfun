@@ -1,299 +1,165 @@
-<table width="100%" bgcolor="#0B1626">
-<tr><td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1626,55:163A5A,100:2563A8&section=header&text=SOFTWARE%20DEVELOPER&fontSize=32&fontColor=FFFFFF&fontAlignY=48&desc=FULL-STACK%20%E2%80%A2%20BACKEND%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION&descAlignY=68&descSize=12&animation=fadeIn" width="100%"/>
-
-<br/>
-
-## `$ whoami`
-
-```text
-software developer
-full-stack • backend • AI • automation
-
-I like turning ideas into working systems.
-
-Currently:
-→ building practical products
-→ exploring AI engineering
-→ improving backend architecture
-→ learning by shipping
-```
-
-## `$ cat ./README.md`
-
-I'm a **BIT undergraduate and software developer from Nepal** focused on building useful software rather than collecting technologies.
-
-My work usually sits around **full-stack applications, backend systems, AI-powered workflows, automation, and developer tooling**.
-
-I learn by building things in the real world: make it work, break it, understand the failure, fix the architecture, test it, and ship it.
-
-> **Build → Break → Understand → Fix → Test → Ship → Improve**
-
----
-
-## `$ ls ~/stack`
-
-<table>
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0B1220">
 <tr>
-<td width="50%" valign="top">
-
-### `languages/`
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
-
-</td>
-<td width="50%" valign="top">
-
-### `frontend/`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `backend/`
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" />
-
-</td>
-<td width="50%" valign="top">
-
-### `data/`
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,firebase" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `ai/`
-
-`RAG` · `AI APIs` · `Embeddings` · `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### `infra/`
-
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,github" />
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 Water Factory ERP
-
-Warehouse-focused inventory and delivery management built around real business workflows.
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `RAG`
-
-→ [repository](https://github.com/livelyfun/stock-management-system)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Mamta Hotel AI Studio
-
-A modern hotel platform built around polished UI, structured content, and AI-assisted development.
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
-
-→ [repository](https://github.com/livelyfun/Mamta-hotel-ai-studio)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧹 Melbourne Property Management
-
-A production-style business website for a Melbourne property management and services company.
-
-`TypeScript` `Frontend` `Responsive UI` `Vercel`
-
-→ [live project](https://mpm-services.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### ▶️ YouTube Video Downloader
-
-Desktop application for downloading YouTube videos through a native Linux-friendly experience.
-
-`Electron` `JavaScript` `Desktop`
-
-→ [repository](https://github.com/livelyfun/youtube-video-downloader)
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ tail -f ~/github`
-
-<!-- AUTO:START -->
-
-## 📊 GitHub Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-2-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [water-stock-management](https://github.com/livelyfun/water-stock-management)
-
-A project built while learning, experimenting, and shipping.
-
-**Mixed / Other** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system](https://github.com/livelyfun/stock-management-system)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 7 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**JavaScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 52.3% &nbsp; **Python** · 18.4% &nbsp; **JavaScript** · 13.8% &nbsp; **CSS** · 12.2% &nbsp; **HTML** · 1.7% &nbsp; **Shell** · 0.8% &nbsp; **PowerShell** · 0.4% &nbsp; **Inno Setup** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-
-<sub>🤖 Generated from public GitHub data. Last sync: 6 Oct 2026, 09:36 (Asia/Kathmandu).</sub>
-
-<!-- AUTO:END -->
-
----
-
-## `$ top --by-interest`
-
-```text
-01  AI Engineering
-02  Backend Architecture
-03  RAG & Knowledge Systems
-04  Automation
-05  Developer Tooling
-06  Production Engineering
-07  Product Development
-```
-
----
-
-## `$ cat ./philosophy`
-
-> I don't want to know everything.
->
-> I want to be able to build what matters.
-
-The goal is simple: **write better software, understand the systems underneath it, and keep shipping things that are actually useful.**
-
----
+<td>
 
 <div align="center">
 
-### `$ exit`
+<br/>
 
-<a href="https://mithesh.netlify.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/mithlesh_codes/all">X</a>
-&nbsp;·&nbsp;
-<a href="mailto:mithleshkumardas527@gmail.com">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8A33D&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Engineering+%C2%B7+RAG+Systems;Full-Stack+%C2%B7+Backend+%C2%B7+Automation" alt="Software Developer" />
+
+<br/>
+
+<p>
+  <a href="https://mithesh.netlify.app/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://x.com/mithlesh_codes/all">X</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+I'm a **software developer from Nepal** focused on building useful products and understanding the systems behind them.
+
+My work mainly lives around **full-stack development, backend architecture, AI engineering, RAG systems, automation, and developer tooling**.
+
+I learn by building: **ship → break → understand → fix → improve**.
+
+<br/>
+
+## `$ stack`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Languages" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend" />
+
+</td>
+<td width="50%" valign="top">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" alt="Backend" />
 
 <br/><br/>
 
-</td></tr>
+**Data · Infra · Tools**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,docker,linux,git,github" alt="Data and tools" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ projects`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Water Factory ERP
+
+Warehouse-scoped inventory, delivery, returns, payments, and operational workflows for a real water business.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `RAG`
+
+<a href="https://github.com/livelyfun/stock-management-system">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Mamta Hotel AI Studio
+
+Hotel website platform with structured content, polished UI, and AI-assisted development workflows.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+<a href="https://github.com/livelyfun/Mamta-hotel-ai-studio">View repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Melbourne Property Management
+
+Responsive business website for a Melbourne property management and services company.
+
+`TypeScript` `Frontend` `Responsive UI` `Vercel`
+
+<a href="https://mpm-services.vercel.app/">View live project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### YouTube Video Downloader
+
+Desktop application focused on a native, Linux-friendly downloading experience.
+
+`Electron` `JavaScript` `Desktop`
+
+<a href="https://github.com/livelyfun/youtube-video-downloader">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `$ focus`
+
+```text
+AI Engineering        RAG & Knowledge Systems
+Backend Architecture  Automation
+Product Development   Developer Tooling
+Production Engineering
+```
+
+<br/>
+
+## `$ philosophy`
+
+> Build things that are useful.
+>
+> Understand why they work.
+>
+> Learn fastest when something breaks.
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views" alt="Profile views" />
+
+<br/><br/>
+
+<sub>Building practical software, one system at a time.</sub>
+
+</div>
+
+<br/>
+
+</td>
+</tr>
 </table>
