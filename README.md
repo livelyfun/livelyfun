@@ -1,28 +1,12 @@
-<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#0B1220">
-<tr>
-<td>
-
 <div align="center">
 
-<br/>
+# SOFTWARE DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8A33D&center=true&vCenter=true&width=650&lines=Software+Developer;AI+Engineering+%C2%B7+RAG+Systems;Full-Stack+%C2%B7+Backend+%C2%B7+Automation" alt="Software Developer" />
+**AI Engineering · RAG Systems · Full-Stack · Backend · Automation**
 
-<br/>
-
-<p>
-  <a href="https://mithesh.netlify.app/">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://x.com/mithlesh_codes/all">X</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
-</p>
+<a href="https://mithesh.netlify.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mithlesh-das-876973343/">LinkedIn</a> · <a href="https://x.com/mithlesh_codes/all">X</a> · <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
 
 </div>
-
-<br/>
 
 ---
 
@@ -34,48 +18,21 @@ My work mainly lives around **full-stack development, backend architecture, AI e
 
 I learn by building: **ship → break → understand → fix → improve**.
 
-<br/>
-
 ## `$ stack`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Python, TypeScript, JavaScript, HTML, CSS" />
 
-**Languages**
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="React, Next.js, Vite, Tailwind" />
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Languages" />
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" alt="Node.js, FastAPI, GraphQL" />
 
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend" />
-
-</td>
-<td width="50%" valign="top">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql" alt="Backend" />
-
-<br/><br/>
-
-**Data · Infra · Tools**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,docker,linux,git,github" alt="Data and tools" />
-
-</td>
-</tr>
-</table>
-
-<br/>
+**Data · Infrastructure · Tools**  
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,docker,linux,git,github" alt="PostgreSQL, MongoDB, SQLite, Docker, Linux, Git, GitHub" />
 
 ## `$ projects`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 
 ### Water Factory ERP
 
@@ -83,10 +40,7 @@ Warehouse-scoped inventory, delivery, returns, payments, and operational workflo
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `RAG`
 
-<a href="https://github.com/livelyfun/stock-management-system">View repository →</a>
-
-</td>
-<td width="50%" valign="top">
+[View repository →](https://github.com/livelyfun/stock-management-system)
 
 ### Mamta Hotel AI Studio
 
@@ -94,13 +48,7 @@ Hotel website platform with structured content, polished UI, and AI-assisted dev
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
-<a href="https://github.com/livelyfun/Mamta-hotel-ai-studio">View repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+[View repository →](https://github.com/livelyfun/Mamta-hotel-ai-studio)
 
 ### Melbourne Property Management
 
@@ -108,10 +56,7 @@ Responsive business website for a Melbourne property management and services com
 
 `TypeScript` `Frontend` `Responsive UI` `Vercel`
 
-<a href="https://mpm-services.vercel.app/">View live project →</a>
-
-</td>
-<td width="50%" valign="top">
+[View live project →](https://mpm-services.vercel.app/)
 
 ### YouTube Video Downloader
 
@@ -119,24 +64,14 @@ Desktop application focused on a native, Linux-friendly downloading experience.
 
 `Electron` `JavaScript` `Desktop`
 
-<a href="https://github.com/livelyfun/youtube-video-downloader">View repository →</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
+[View repository →](https://github.com/livelyfun/youtube-video-downloader)
 
 ## `$ focus`
 
-```text
-AI Engineering        RAG & Knowledge Systems
-Backend Architecture  Automation
-Product Development   Developer Tooling
-Production Engineering
-```
-
-<br/>
+`AI Engineering` · `RAG & Knowledge Systems`  
+`Backend Architecture` · `Automation`  
+`Product Development` · `Developer Tooling`  
+`Production Engineering`
 
 ## `$ philosophy`
 
@@ -146,20 +81,10 @@ Production Engineering
 >
 > Learn fastest when something breaks.
 
-<br/>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views" alt="Profile views" />
 
-<br/><br/>
-
-<sub>Building practical software, one system at a time.</sub>
+**Building practical software, one system at a time.**
 
 </div>
-
-<br/>
-
-</td>
-</tr>
-</table>
