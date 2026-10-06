@@ -1,15 +1,7 @@
-<div align="center">
+<table width="100%" bgcolor="#0B1626">
+<tr><td align="center">
 
-<img src="./assets/profile-3d.svg" alt="Animated 3D developer profile" width="100%"/>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://mithesh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-das-876973343/)
-[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mithlesh_codes/all)
-[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshkumardas527@gmail.com)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B1626,55:163A5A,100:2563A8&section=header&text=SOFTWARE%20DEVELOPER&fontSize=32&fontColor=FFFFFF&fontAlignY=48&desc=FULL-STACK%20%E2%80%A2%20BACKEND%20%E2%80%A2%20AI%20%E2%80%A2%20AUTOMATION&descAlignY=68&descSize=12&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -303,6 +295,5 @@ The goal is simple: **write better software, understand the systems underneath i
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:172033,100:020617&section=footer" width="100%"/>
-
-</div>
+</td></tr>
+</table>
