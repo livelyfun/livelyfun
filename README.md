@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,55:0f172a,100:172033&section=header&text=DEVELOPER_MODE&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=build%20%E2%86%92%20break%20%E2%86%92%20understand%20%E2%86%92%20ship&descAlignY=64&descSize=15&animation=fadeIn" width="100%"/>
+<img src="./assets/profile-3d.svg" alt="Animated 3D developer profile" width="100%"/>
 
 <br/>
 
