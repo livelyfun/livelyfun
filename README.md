@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshkumardas527@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livelyfun)
 
-![Profile views](https://visitcount.itsvg.in/api?id=livelyfun&label=Profile%20Views&color=0&icon=0&pretty=true)
+![Profile views](https://komarev.com/ghpvc/?username=livelyfun&style=for-the-badge&label=Profile%20Views&color=0e75b6)
 
 </div>
 
@@ -171,7 +171,7 @@ Production Engineering
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=livelyfun&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-trophies.devomb.com/?username=livelyfun&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ---
@@ -189,14 +189,6 @@ Production Engineering
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livelyfun&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -207,111 +199,13 @@ Production Engineering
   </picture>
 </p>
 
-<sub>Snake appears after the Generate Snake workflow runs once (Actions → Generate Snake → Run workflow).</sub>
-
 ---
 
 <!-- AUTO:START -->
 
 ## 📊 GitHub Snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-3-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [water-stock-management](https://github.com/livelyfun/water-stock-management)
-
-A project built while learning, experimenting, and shipping.
-
-**Mixed / Other** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system](https://github.com/livelyfun/stock-management-system)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**JavaScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 52.3% &nbsp; **Python** · 18.4% &nbsp; **JavaScript** · 13.8% &nbsp; **CSS** · 12.2% &nbsp; **HTML** · 1.7% &nbsp; **Shell** · 0.8% &nbsp; **PowerShell** · 0.4% &nbsp; **Inno Setup** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-
-<sub>🤖 Generated from public GitHub data. Last sync: 6 Oct 2026, 12:50 (Asia/Kathmandu).</sub>
+_Dynamic section — auto-updates daily from your public repos._
 
 <!-- AUTO:END -->
 
