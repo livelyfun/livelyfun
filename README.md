@@ -206,10 +206,10 @@ Production Engineering
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-3-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-4-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -218,28 +218,15 @@ Production Engineering
 <tr>
 <td width="50%" valign="top">
 
-### [water-stock-management](https://github.com/livelyfun/water-stock-management)
-
-A project built while learning, experimenting, and shipping.
-
-**Mixed / Other** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
 ### [stock-management-system](https://github.com/livelyfun/stock-management-system)
 
 A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 8 days ago</sub>
+<sub>Updated 9 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -251,6 +238,8 @@ practicing git as a begginer
 <sub>Updated 9 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -262,8 +251,6 @@ A project built while learning, experimenting, and shipping.
 <sub>Updated 10 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
@@ -272,9 +259,11 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
@@ -283,7 +272,18 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Git-Github_Tutorial](https://github.com/livelyfun/Git-Github_Tutorial)
+
+learn git and github from beginner to advance. All commands are listed.
+
+**Mixed / Other** · ⭐ 1 · 🍴 0
+
+<sub>Updated 12 days ago</sub>
 
 </td>
 </tr>
@@ -301,7 +301,7 @@ A project built while learning, experimenting, and shipping.
 - [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
 - [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 8 Oct 2026, 18:05 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 9 Oct 2026, 01:48 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
