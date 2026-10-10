@@ -209,7 +209,7 @@ Production Engineering
   <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-10-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -224,7 +224,7 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -235,7 +235,7 @@ practicing git as a begginer
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
 
 </td>
 </tr>
@@ -248,7 +248,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 11 days ago</sub>
+<sub>Updated 12 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -259,7 +259,7 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -283,7 +283,7 @@ learn git and github from beginner to advance. All commands are listed.
 
 **Mixed / Other** · ⭐ 1 · 🍴 0
 
-<sub>Updated 13 days ago</sub>
+<sub>Updated 14 days ago</sub>
 
 </td>
 </tr>
@@ -295,13 +295,13 @@ learn git and github from beginner to advance. All commands are listed.
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 3 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 3 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 3 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 3 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 3 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 10 Oct 2026, 01:24 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 11 Oct 2026, 00:32 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
