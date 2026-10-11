@@ -224,7 +224,7 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 11 days ago</sub>
+<sub>Updated 12 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -235,7 +235,7 @@ practicing git as a begginer
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 11 days ago</sub>
+<sub>Updated 12 days ago</sub>
 
 </td>
 </tr>
@@ -248,7 +248,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -259,7 +259,7 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 13 days ago</sub>
+<sub>Updated 14 days ago</sub>
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 13 days ago</sub>
+<sub>Updated 14 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -295,13 +295,13 @@ learn git and github from beginner to advance. All commands are listed.
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 5 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 5 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 11 Oct 2026, 11:47 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 12 Oct 2026, 00:52 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
