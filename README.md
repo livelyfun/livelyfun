@@ -209,7 +209,7 @@ Production Engineering
   <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-10-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -283,7 +283,7 @@ learn git and github from beginner to advance. All commands are listed.
 
 **Mixed / Other** · ⭐ 1 · 🍴 0
 
-<sub>Updated 14 days ago</sub>
+<sub>Updated 15 days ago</sub>
 
 </td>
 </tr>
@@ -301,7 +301,7 @@ learn git and github from beginner to advance. All commands are listed.
 - [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
 - [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 4 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 11 Oct 2026, 00:32 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 11 Oct 2026, 11:47 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
