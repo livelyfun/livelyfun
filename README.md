@@ -206,10 +206,10 @@ Production Engineering
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-10-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -218,15 +218,28 @@ Production Engineering
 <tr>
 <td width="50%" valign="top">
 
+### [Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym)
+
+strong
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [stock-management-system](https://github.com/livelyfun/stock-management-system)
 
 A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -235,11 +248,9 @@ practicing git as a begginer
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -248,9 +259,11 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 13 days ago</sub>
+<sub>Updated 14 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
@@ -259,11 +272,9 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 14 days ago</sub>
+<sub>Updated 15 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
@@ -271,17 +282,6 @@ A project built while learning, experimenting, and shipping.
 A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 14 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Git-Github_Tutorial](https://github.com/livelyfun/Git-Github_Tutorial)
-
-learn git and github from beginner to advance. All commands are listed.
-
-**Mixed / Other** · ⭐ 1 · 🍴 0
 
 <sub>Updated 15 days ago</sub>
 
@@ -291,17 +291,17 @@ learn git and github from beginner to advance. All commands are listed.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 52.3% &nbsp; **Python** · 18.4% &nbsp; **JavaScript** · 13.8% &nbsp; **CSS** · 12.2% &nbsp; **HTML** · 1.7% &nbsp; **Shell** · 0.8% &nbsp; **PowerShell** · 0.4% &nbsp; **Inno Setup** · 0.3%
+**TypeScript** · 64.6% &nbsp; **Python** · 13.6% &nbsp; **JavaScript** · 10.3% &nbsp; **CSS** · 9.1% &nbsp; **HTML** · 1.3% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 5 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 5 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · today
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · today
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 2 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 2 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 2 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 12 Oct 2026, 00:52 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 13 Oct 2026, 03:57 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
