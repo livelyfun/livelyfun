@@ -209,7 +209,7 @@ Production Engineering
   <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-10-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -224,7 +224,7 @@ strong
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated today</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -235,7 +235,7 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 14 days ago</sub>
+<sub>Updated 15 days ago</sub>
 
 </td>
 </tr>
@@ -248,7 +248,7 @@ practicing git as a begginer
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 14 days ago</sub>
+<sub>Updated 15 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -259,7 +259,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 15 days ago</sub>
+<sub>Updated 16 days ago</sub>
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 16 days ago</sub>
+<sub>Updated 17 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -283,7 +283,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 16 days ago</sub>
+<sub>Updated 17 days ago</sub>
 
 </td>
 </tr>
@@ -291,17 +291,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 64.6% &nbsp; **Python** · 13.6% &nbsp; **JavaScript** · 10.3% &nbsp; **CSS** · 9.1% &nbsp; **HTML** · 1.3% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
+**TypeScript** · 66.3% &nbsp; **Python** · 12.9% &nbsp; **JavaScript** · 9.7% &nbsp; **CSS** · 8.8% &nbsp; **HTML** · 1.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · yesterday
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · yesterday
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · yesterday
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 3 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 3 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 4 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 14 Oct 2026, 02:03 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 15 Oct 2026, 00:33 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
