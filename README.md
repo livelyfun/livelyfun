@@ -235,7 +235,7 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 15 days ago</sub>
+<sub>Updated 16 days ago</sub>
 
 </td>
 </tr>
@@ -248,7 +248,7 @@ practicing git as a begginer
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 15 days ago</sub>
+<sub>Updated 16 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -259,7 +259,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 16 days ago</sub>
+<sub>Updated 17 days ago</sub>
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 17 days ago</sub>
+<sub>Updated 18 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -283,7 +283,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 17 days ago</sub>
+<sub>Updated 18 days ago</sub>
 
 </td>
 </tr>
@@ -291,17 +291,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 66.3% &nbsp; **Python** · 12.9% &nbsp; **JavaScript** · 9.7% &nbsp; **CSS** · 8.8% &nbsp; **HTML** · 1.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
+**TypeScript** · 66.8% &nbsp; **Python** · 12.7% &nbsp; **JavaScript** · 9.6% &nbsp; **CSS** · 8.7% &nbsp; **HTML** · 1.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 2 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 4 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · today
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
+- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 15 Oct 2026, 00:33 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 16 Oct 2026, 00:17 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
