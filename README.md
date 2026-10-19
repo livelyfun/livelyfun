@@ -206,7 +206,7 @@ Production Engineering
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
@@ -218,11 +218,11 @@ Production Engineering
 <tr>
 <td width="50%" valign="top">
 
-### [Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym)
+### [mithi](https://github.com/livelyfun/mithi)
 
-strong
+practicing git as a begginer 
 
-**TypeScript** · ⭐ 0 · 🍴 0
+**TypeScript** · ⭐ 1 · 🍴 0
 
 <sub>Updated today</sub>
 
@@ -235,22 +235,11 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 19 days ago</sub>
+<sub>Updated 20 days ago</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 19 days ago</sub>
-
-</td>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -259,11 +248,9 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 20 days ago</sub>
+<sub>Updated 21 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
@@ -272,9 +259,11 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 21 days ago</sub>
+<sub>Updated 22 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
@@ -283,7 +272,18 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 21 days ago</sub>
+<sub>Updated 22 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Git-Github_Tutorial](https://github.com/livelyfun/Git-Github_Tutorial)
+
+learn git and github from beginner to advance. All commands are listed.
+
+**Mixed / Other** · ⭐ 1 · 🍴 0
+
+<sub>Updated 23 days ago</sub>
 
 </td>
 </tr>
@@ -291,17 +291,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 67.0% &nbsp; **Python** · 12.6% &nbsp; **JavaScript** · 9.5% &nbsp; **CSS** · 8.7% &nbsp; **HTML** · 1.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3% &nbsp; **Inno Setup** · 0.2%
+**TypeScript** · 48.6% &nbsp; **Python** · 19.8% &nbsp; **JavaScript** · 14.9% &nbsp; **CSS** · 13.2% &nbsp; **HTML** · 1.8% &nbsp; **Shell** · 0.9% &nbsp; **PowerShell** · 0.5% &nbsp; **Inno Setup** · 0.3%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 4 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 3 days ago
-- [livelyfun/Gorkhali-Gym](https://github.com/livelyfun/Gorkhali-Gym) — 1 commit · 5 days ago
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · today
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 13 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 18 Oct 2026, 23:13 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 20 Oct 2026, 01:51 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
