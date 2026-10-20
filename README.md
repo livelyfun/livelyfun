@@ -206,7 +206,7 @@ Production Engineering
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-14-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
@@ -218,24 +218,48 @@ Production Engineering
 <tr>
 <td width="50%" valign="top">
 
-### [mithi](https://github.com/livelyfun/mithi)
+### [Stockpilot](https://github.com/livelyfun/Stockpilot)
 
-practicing git as a begginer 
+ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
 
-**TypeScript** · ⭐ 1 · 🍴 0
+**C#** · ⭐ 0 · 🍴 0
 
 <sub>Updated today</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [stock-management-system](https://github.com/livelyfun/stock-management-system)
+### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
+
+Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
+
+**Python** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [mithi](https://github.com/livelyfun/mithi)
+
+practicing git as a begginer 
+
+**TypeScript** · ⭐ 1 · 🍴 0
+
+<sub>Updated yesterday</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
 
 A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 20 days ago</sub>
+<sub>Updated 21 days ago</sub>
 
 </td>
 </tr>
@@ -248,7 +272,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 21 days ago</sub>
+<sub>Updated 22 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -259,30 +283,6 @@ A project built while learning, experimenting, and shipping.
 
 **JavaScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 22 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [3d-portfolio](https://github.com/livelyfun/3d-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 22 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Git-Github_Tutorial](https://github.com/livelyfun/Git-Github_Tutorial)
-
-learn git and github from beginner to advance. All commands are listed.
-
-**Mixed / Other** · ⭐ 1 · 🍴 0
-
 <sub>Updated 23 days ago</sub>
 
 </td>
@@ -291,17 +291,17 @@ learn git and github from beginner to advance. All commands are listed.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 48.6% &nbsp; **Python** · 19.8% &nbsp; **JavaScript** · 14.9% &nbsp; **CSS** · 13.2% &nbsp; **HTML** · 1.8% &nbsp; **Shell** · 0.9% &nbsp; **PowerShell** · 0.5% &nbsp; **Inno Setup** · 0.3%
+**TypeScript** · 35.0% &nbsp; **Python** · 26.9% &nbsp; **C#** · 13.6% &nbsp; **HTML** · 8.3% &nbsp; **JavaScript** · 7.8% &nbsp; **CSS** · 7.4% &nbsp; **Shell** · 0.7% &nbsp; **PowerShell** · 0.3%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · today
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 9 days ago
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 13 days ago
+- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · today
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 20 Oct 2026, 01:51 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 21 Oct 2026, 00:23 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
