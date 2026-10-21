@@ -218,11 +218,11 @@ Production Engineering
 <tr>
 <td width="50%" valign="top">
 
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
+### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
 
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
+Family owned Cleaning and Maintenance business. For all you cleaning and maintenance need for your home
 
-**C#** · ⭐ 0 · 🍴 0
+**TypeScript** · ⭐ 0 · 🍴 0
 
 <sub>Updated today</sub>
 
@@ -242,15 +242,28 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 <tr>
 <td width="50%" valign="top">
 
+### [Stockpilot](https://github.com/livelyfun/Stockpilot)
+
+ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
+
+**C#** · ⭐ 0 · 🍴 0
+
+<sub>Updated yesterday</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [mithi](https://github.com/livelyfun/mithi)
 
 practicing git as a begginer 
 
 **TypeScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
@@ -259,11 +272,9 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 21 days ago</sub>
+<sub>Updated 22 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -271,17 +282,6 @@ A project built while learning, experimenting, and shipping.
 A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 22 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [gym-trainer-portfolio](https://github.com/livelyfun/gym-trainer-portfolio)
-
-A project built while learning, experimenting, and shipping.
-
-**JavaScript** · ⭐ 0 · 🍴 0
 
 <sub>Updated 23 days ago</sub>
 
@@ -291,17 +291,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 35.0% &nbsp; **Python** · 26.9% &nbsp; **C#** · 13.6% &nbsp; **HTML** · 8.3% &nbsp; **JavaScript** · 7.8% &nbsp; **CSS** · 7.4% &nbsp; **Shell** · 0.7% &nbsp; **PowerShell** · 0.3%
+**TypeScript** · 35.6% &nbsp; **Python** · 25.4% &nbsp; **C#** · 12.9% &nbsp; **CSS** · 10.0% &nbsp; **HTML** · 7.9% &nbsp; **JavaScript** · 7.3% &nbsp; **Shell** · 0.7% &nbsp; **PowerShell** · 0.3%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · today
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 10 days ago
+- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · yesterday
+- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · yesterday
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 11 days ago
+- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 11 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 21 Oct 2026, 00:23 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 22 Oct 2026, 00:34 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
