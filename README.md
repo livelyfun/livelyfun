@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=140&section=header&text=Mithlesh%20Kumar%20Das&fontSize=36&fontColor=F8FAFC&fontAlignY=40&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Full-Stack%20Systems&descSize=14&descAlignY=60&descColor=94A3B8" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A5F&height=180&section=header&text=Mithlesh%20Kumar%20Das&fontSize=40&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Developer%20from%20Nepal&descSize=15&descAlignY=55&descColor=7DD3FC" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+production+systems;Monitoring+%C2%B7+ERPs+%C2%B7+AI+pipelines;ship+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+fix" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=55&lines=Full-Stack+%C2%B7+AI+%2F+RAG+%C2%B7+Backend+Systems;Shipping+monitoring%2C+ERPs+%26+production+apps" alt="typing" />
 
-<br/>
+<p>
+  <strong>I build systems that run in production</strong> — monitoring tools, inventory platforms,<br/>
+  business websites, and AI-assisted products.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://mithesh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-das-876973343/)
-[![X](https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mithlesh_codes)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mithleshkumardas527@gmail.com)
+<p>
+  <a href="https://mithesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mithlesh_codes"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mithleshkumardas527@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/livelyfun"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-![Views](https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views&color=0F172A)
+<img src="https://komarev.com/ghpvc/?username=livelyfun&style=flat-square&label=profile+views&color=0F172A" alt="views" />
 
 </div>
 
@@ -161,105 +167,9 @@ Multi-market stock terminal with WebSocket prices, interactive charts, alerts, a
 
 <!-- AUTO:START -->
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
-
-Family owned Cleaning and Maintenance business. For all you cleaning and maintenance need for your home
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
-
-Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated yesterday</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
-
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
-
-**C#** · ⭐ 0 · 🍴 0
-
-<sub>Updated yesterday</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 3 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 22 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 36.1% &nbsp; **Python** · 24.8% &nbsp; **C#** · 12.6% &nbsp; **CSS** · 10.9% &nbsp; **HTML** · 7.6% &nbsp; **JavaScript** · 7.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia) — 1 commit · today
-- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · yesterday
-
-<sub>🤖 Generated from public GitHub data. Last sync: 22 Oct 2026, 15:16 (Asia/Kathmandu).</sub>
+_Dynamic section — auto-updates daily from your public repos._
 
 <!-- AUTO:END -->
 
