@@ -38,33 +38,34 @@ ship → break → understand → fix → improve
 
 ### 🔭 Currently Building
 
-- 💧 **Water Factory ERP** — inventory, delivery & operational workflows with RAG
-- 📈 **StockMatrix** — real-time multi-market stock terminal
-- 🗂️ **Smart File Organizer CLI** — cross-platform auto-sorting with better rules & tests
+- 🛡️ **Release Guardian** — self-hosted synthetic monitoring & release verification
+- 📦 **Stockpilot** — ASP.NET Core inventory system with weighted-average costing
+- 🏢 **MPM Services** — Melbourne property management & cleaning business site
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,html,css&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,dotnet&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,graphql,prisma,postgresql,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=fastapi,graphql,prisma,postgresql,mongodb,docker&perline=6" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=sqlite,docker,linux,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=sqlite,linux,git,github&perline=4" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 ---
@@ -75,18 +76,59 @@ ship → break → understand → fix → improve
 <tr>
 <td width="50%" valign="top">
 
+#### 🛡️ Release Guardian
+Self-hosted synthetic monitoring and release verification: HTTP, Playwright & Lighthouse checks, regression detection, deployment correlation, and incident tracking.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/Release-Guardian)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 Stockpilot
+ASP.NET Core MVC inventory & stock management on PostgreSQL: purchases, sales, immutable stock ledger with weighted-average costing, RBAC, audit trail & CSV reports.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/Stockpilot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 MPM Services (Melbourne)
+Modern Next.js site for a Melbourne property management & cleaning business — services, gallery, blog, reviews & quote requests.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://mpm-services.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
 #### 💧 Water Factory ERP
-Warehouse-scoped inventory, delivery, returns, payments & operational workflows for a real water business.
+Warehouse-scoped inventory, delivery, returns, payments & operational workflows for a real water business — with RAG.
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-58A6FF?style=flat-square)
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/stock-management-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🎬 AI Reel Studio
@@ -95,13 +137,10 @@ End-to-end platform that turns a single text prompt into Instagram Reels / YouTu
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/AI-Reel-Studio)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 📈 StockMatrix
@@ -110,46 +149,8 @@ Multi-market real-time stock dashboard with WebSockets, interactive charts, aler
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/Track-the-stock-market)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗂️ Smart File Organizer CLI
-Watches your Downloads folder and auto-sorts files by type with zero drama.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![watchdog](https://img.shields.io/badge/watchdog-CLI-yellow?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/Smart-File-Organizer-CLI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏢 Melbourne Property Management
-Clean, responsive business website for a Melbourne property management & services company.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://mpm-services.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-#### ⬇️ YouTube Video Downloader
-Native desktop YouTube downloader with progress, quality selection & FFmpeg support.
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/livelyfun/youtube-video-downloader)
 
 </td>
 </tr>
@@ -161,9 +162,9 @@ Native desktop YouTube downloader with progress, quality selection & FFmpeg supp
 
 ```text
 AI Engineering            ·  RAG & Knowledge Systems
-Backend Architecture      ·  Automation
+Backend Architecture      ·  Automation & Monitoring
 Product Development       ·  Developer Tooling
-Production Engineering
+Production Engineering    ·  Full-Stack Systems
 ```
 
 ---
@@ -205,103 +206,7 @@ Production Engineering
 
 ## 📊 GitHub Snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
-
-Family owned Cleaning and Maintenance business. For all you cleaning and maintenance need for your home
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
-
-Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
-
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
-
-**C#** · ⭐ 0 · 🍴 0
-
-<sub>Updated yesterday</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 2 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 22 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 23 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 35.6% &nbsp; **Python** · 25.4% &nbsp; **C#** · 12.9% &nbsp; **CSS** · 10.0% &nbsp; **HTML** · 7.9% &nbsp; **JavaScript** · 7.3% &nbsp; **Shell** · 0.7% &nbsp; **PowerShell** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · yesterday
-- [livelyfun/Stockpilot](https://github.com/livelyfun/Stockpilot) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 11 days ago
-- [livelyfun/Hotel-gorkha-nextjs](https://github.com/livelyfun/Hotel-gorkha-nextjs) — 1 commit · 11 days ago
-
-<sub>🤖 Generated from public GitHub data. Last sync: 22 Oct 2026, 00:34 (Asia/Kathmandu).</sub>
+_Dynamic section — auto-updates daily from your public repos._
 
 <!-- AUTO:END -->
 
