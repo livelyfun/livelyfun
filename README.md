@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:1E3A5F&height=200&section=header&text=Mithlesh%20Kumar%20Das&fontSize=42&fontColor=F8FAFC&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20Biratnagar%2C%20Nepal&descSize=16&descAlignY=52&descColor=7DD3FC" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:1E3A5F&height=200&section=header&text=Mithlesh%20Kumar%20Das&fontSize=42&fontColor=F8FAFC&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20Biratnagar%2C%20Nepal&descSize=16&descAlignY=52&descColor=7DD3FC&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&height=60&lines=Full-Stack+%C2%B7+AI+%2F+RAG+%C2%B7+Backend+Systems;Monitoring+%C2%B7+ERPs+%C2%B7+Production+Apps" alt="typing" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="hi" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=640&height=90&lines=Full-Stack+%C2%B7+AI+%2F+RAG+%C2%B7+Backend+Systems;Monitoring+%C2%B7+ERPs+%C2%B7+Production+Apps;ship+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+fix" alt="typing" />
 
 <p>
   <strong>I build systems that run in production</strong><br/>
@@ -22,6 +24,8 @@
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397c-4a68-bb79-5279981979b5.gif" width="100%" alt="line" />
 
 <!-- BENTO: about + building -->
 <table width="100%">
@@ -45,6 +49,8 @@ ship → break → understand → fix → improve
 
 ### 🔭 Building now
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=700&color=7DD3FC&vCenter=true&width=320&height=70&lines=Release+Guardian;Stockpilot;MPM+Services" alt="building" />
+
 - **[Release Guardian](https://github.com/livelyfun/Release-Guardian)** — synthetic monitoring
 - **[Stockpilot](https://github.com/livelyfun/Stockpilot)** — .NET inventory / ledger
 - **[MPM Services](https://mpm-services.vercel.app/)** — Melbourne business site
@@ -52,6 +58,8 @@ ship → break → understand → fix → improve
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397c-4a68-bb79-5279981979b5.gif" width="100%" alt="line" />
 
 <!-- BENTO: stack -->
 <table width="100%">
@@ -67,6 +75,8 @@ ship → break → understand → fix → improve
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397c-4a68-bb79-5279981979b5.gif" width="100%" alt="line" />
 
 <!-- BENTO: projects -->
 ### 🚀 Featured systems
@@ -132,6 +142,8 @@ Real-time multi-market stock terminal.
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-397c-4a68-bb79-5279981979b5.gif" width="100%" alt="line" />
+
 <!-- BENTO: focus + philosophy -->
 <table width="100%">
 <tr>
@@ -178,6 +190,8 @@ Real-time multi-market stock terminal.
   <img src="https://github-trophies.devomb.com/?username=livelyfun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
+### 🐍 Contribution snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake-dark.svg" />
@@ -190,105 +204,9 @@ Real-time multi-market stock terminal.
 
 <!-- AUTO:START -->
 
-## 📊 GitHub Snapshot
+## GitHub Snapshot
 
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-8-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
-
-Family owned Cleaning and Maintenance business. For all you cleaning and maintenance need for your home
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated yesterday</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
-
-Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated yesterday</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
-
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
-
-**C#** · ⭐ 0 · 🍴 0
-
-<sub>Updated 2 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**TypeScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 3 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 23 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 36.1% &nbsp; **Python** · 24.8% &nbsp; **C#** · 12.6% &nbsp; **CSS** · 10.9% &nbsp; **HTML** · 7.6% &nbsp; **JavaScript** · 7.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · today
-
-<sub>🤖 Generated from public GitHub data. Last sync: 22 Oct 2026, 22:12 (Asia/Kathmandu).</sub>
+_Dynamic section — auto-updates daily from your public repos._
 
 <!-- AUTO:END -->
 
@@ -296,6 +214,6 @@ A project built while learning, experimenting, and shipping.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:0F172A,100:020617&height=110&section=footer&text=Building%20practical%20software%2C%20one%20system%20at%20a%20time.&fontSize=14&fontColor=94A3B8&fontAlignY=70" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:0F172A,100:020617&height=110&section=footer&text=Building%20practical%20software%2C%20one%20system%20at%20a%20time.&fontSize=14&fontColor=94A3B8&fontAlignY=70&animation=fadeIn" alt="footer" />
 
 </div>
