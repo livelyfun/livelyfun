@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [mithi](https://github.com/livelyfun/mithi)
+
+practicing git as a begginer 
+
+**JavaScript** · ⭐ 1 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
 
 Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
@@ -270,11 +283,9 @@ Family owned Cleaning and Maintenance business. For all you cleaning and mainten
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -283,17 +294,6 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
-
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
-
-**C#** · ⭐ 0 · 🍴 0
-
 <sub>Updated 3 days ago</sub>
 
 </td>
@@ -301,11 +301,11 @@ ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 
 <tr>
 <td width="50%" valign="top">
 
-### [mithi](https://github.com/livelyfun/mithi)
+### [Stockpilot](https://github.com/livelyfun/Stockpilot)
 
-practicing git as a begginer 
+ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
 
-**TypeScript** · ⭐ 1 · 🍴 0
+**C#** · ⭐ 0 · 🍴 0
 
 <sub>Updated 4 days ago</sub>
 
@@ -318,7 +318,7 @@ A project built while learning, experimenting, and shipping.
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 24 days ago</sub>
+<sub>Updated 25 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 36.1% &nbsp; **Python** · 24.8% &nbsp; **C#** · 12.6% &nbsp; **CSS** · 10.9% &nbsp; **HTML** · 7.6% &nbsp; **JavaScript** · 7.2% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3%
+**TypeScript** · 32.1% &nbsp; **Python** · 24.9% &nbsp; **C#** · 12.6% &nbsp; **CSS** · 11.0% &nbsp; **JavaScript** · 9.8% &nbsp; **HTML** · 8.6% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
+- [livelyfun/Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia) — 1 commit · 2 days ago
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · 2 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 24 Oct 2026, 00:22 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 24 Oct 2026, 23:17 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
