@@ -241,7 +241,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-15-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-16-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
+
+clinic
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [mithi](https://github.com/livelyfun/mithi)
 
 practicing git as a begginer 
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -270,11 +283,9 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 3 days ago</sub>
+<sub>Updated 4 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
@@ -283,9 +294,11 @@ Family owned Cleaning and Maintenance business. For all you cleaning and mainten
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 5 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -294,11 +307,9 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 5 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Stockpilot](https://github.com/livelyfun/Stockpilot)
@@ -307,18 +318,7 @@ ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 
 
 **C#** · ⭐ 0 · 🍴 0
 
-<sub>Updated 5 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [stock-management-system-rag-setup-](https://github.com/livelyfun/stock-management-system-rag-setup-)
-
-A project built while learning, experimenting, and shipping.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 26 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ A project built while learning, experimenting, and shipping.
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 32.1% &nbsp; **Python** · 24.9% &nbsp; **C#** · 12.6% &nbsp; **CSS** · 11.0% &nbsp; **JavaScript** · 9.8% &nbsp; **HTML** · 8.6% &nbsp; **Shell** · 0.6% &nbsp; **PowerShell** · 0.3%
+**TypeScript** · 45.6% &nbsp; **Python** · 20.0% &nbsp; **C#** · 10.1% &nbsp; **CSS** · 8.8% &nbsp; **JavaScript** · 7.9% &nbsp; **HTML** · 6.9% &nbsp; **Shell** · 0.5% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · yesterday
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · today
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
+- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 2 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 25 Oct 2026, 23:31 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 27 Oct 2026, 01:49 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
