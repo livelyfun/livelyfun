@@ -264,17 +264,28 @@ clinic
 </td>
 <td width="50%" valign="top">
 
+### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
+
+Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
+
+**Python** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [mithi](https://github.com/livelyfun/mithi)
 
 practicing git as a begginer 
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 3 days ago</sub>
+<sub>Updated 4 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -283,9 +294,11 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 5 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
@@ -294,20 +307,7 @@ Family owned Cleaning and Maintenance business. For all you cleaning and mainten
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 6 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
-
-Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
+<sub>Updated 7 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -318,7 +318,7 @@ ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 
 
 **C#** · ⭐ 0 · 🍴 0
 
-<sub>Updated 7 days ago</sub>
+<sub>Updated 8 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 47.0% &nbsp; **Python** · 19.2% &nbsp; **C#** · 9.8% &nbsp; **CSS** · 8.8% &nbsp; **JavaScript** · 7.9% &nbsp; **HTML** · 6.6% &nbsp; **Shell** · 0.5% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 46.9% &nbsp; **Python** · 19.0% &nbsp; **C#** · 9.6% &nbsp; **CSS** · 8.7% &nbsp; **JavaScript** · 8.6% &nbsp; **HTML** · 6.5% &nbsp; **Shell** · 0.5% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · today
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · today
 - [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 3 days ago
-- [livelyfun/mithi](https://github.com/livelyfun/mithi) — 1 commit · 3 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
 
-<sub>🤖 Generated from public GitHub data. Last sync: 28 Oct 2026, 01:19 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 29 Oct 2026, 01:32 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
