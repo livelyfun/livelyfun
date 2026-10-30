@@ -241,7 +241,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-16-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-17-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
+
+Digital Marketing Strategist
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
 
 clinic
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -270,11 +283,9 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -283,9 +294,11 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 5 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
@@ -294,11 +307,9 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 7 days ago</sub>
+<sub>Updated 8 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Melbourne-Property-Management-and-Services-Next.js-](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Next.js-)
@@ -306,17 +317,6 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 Family owned Cleaning and Maintenance business. For all you cleaning and maintenance need for your home
 
 **TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Stockpilot](https://github.com/livelyfun/Stockpilot)
-
-ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 + EF Core): purchases, sales, an immutable stock ledger with weighted-average costing, role-based access, audit trail and CSV reports. Dockerized.
-
-**C#** · ⭐ 0 · 🍴 0
 
 <sub>Updated 9 days ago</sub>
 
@@ -326,17 +326,17 @@ ASP.NET Core MVC inventory &amp; stock management system on PostgreSQL (.NET 10 
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 46.9% &nbsp; **Python** · 19.0% &nbsp; **C#** · 9.6% &nbsp; **CSS** · 8.7% &nbsp; **JavaScript** · 8.6% &nbsp; **HTML** · 6.5% &nbsp; **Shell** · 0.5% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 51.5% &nbsp; **Python** · 17.3% &nbsp; **C#** · 8.8% &nbsp; **CSS** · 8.0% &nbsp; **JavaScript** · 7.9% &nbsp; **HTML** · 6.0% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · yesterday
 - [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 2 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 2 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 2 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 2 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 3 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 3 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 3 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 3 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 30 Oct 2026, 01:31 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 31 Oct 2026, 01:21 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
