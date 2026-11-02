@@ -241,10 +241,10 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-18-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-9-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-10-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge)
+
+A project built while learning, experimenting, and shipping.
+
+**Mixed / Other** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [swing](https://github.com/livelyfun/swing)
 
 A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated today</sub>
+<sub>Updated yesterday</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
@@ -270,11 +283,9 @@ Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
@@ -283,9 +294,11 @@ clinic
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 5 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -294,11 +307,9 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -307,18 +318,7 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 10 days ago</sub>
+<sub>Updated 9 days ago</sub>
 
 </td>
 </tr>
@@ -330,13 +330,13 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 4 days ago
+- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · yesterday
+- [livelyfun/Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina) — 1 commit · 3 days ago
 - [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 5 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 5 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 5 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 5 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 6 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 6 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 2 Nov 2026, 00:49 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 3 Nov 2026, 04:36 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
