@@ -264,37 +264,13 @@ A project built while learning, experimenting, and shipping.
 </td>
 <td width="50%" valign="top">
 
-### [swing](https://github.com/livelyfun/swing)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 2 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
 
 Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
-
-clinic
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 6 days ago</sub>
+<sub>Updated today</sub>
 
 </td>
 </tr>
@@ -307,7 +283,31 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 6 days ago</sub>
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [swing](https://github.com/livelyfun/swing)
+
+A project built while learning, experimenting, and shipping.
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 3 days ago</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
+
+clinic
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 7 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -318,7 +318,7 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ practicing git as a begginer
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 59.2% &nbsp; **Python** · 14.5% &nbsp; **C#** · 7.3% &nbsp; **CSS** · 6.9% &nbsp; **JavaScript** · 6.6% &nbsp; **HTML** · 5.0% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 60.0% &nbsp; **Python** · 14.1% &nbsp; **C#** · 7.1% &nbsp; **CSS** · 6.7% &nbsp; **JavaScript** · 6.7% &nbsp; **HTML** · 4.8% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 4 Nov 2026, 02:20 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 5 Nov 2026, 02:38 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
