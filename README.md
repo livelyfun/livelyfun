@@ -244,7 +244,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
   <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-14-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-19-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -255,7 +255,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 
 ### [Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge)
 
-A project built while learning, experimenting, and shipping.
+Star Hotel and Lodge — Next.js 15 hotel website with staff CMS, Cloudinary media, and Neon Serverless PostgreSQL
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
@@ -270,7 +270,7 @@ Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
 </tr>
@@ -283,7 +283,7 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -294,7 +294,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 5 days ago</sub>
 
 </td>
 </tr>
@@ -307,7 +307,7 @@ clinic
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 8 days ago</sub>
+<sub>Updated 9 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -318,7 +318,7 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 12 days ago</sub>
+<sub>Updated 13 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ practicing git as a begginer
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 60.4% &nbsp; **Python** · 14.0% &nbsp; **C#** · 7.0% &nbsp; **CSS** · 6.7% &nbsp; **JavaScript** · 6.6% &nbsp; **HTML** · 4.8% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 60.6% &nbsp; **Python** · 13.9% &nbsp; **C#** · 7.0% &nbsp; **CSS** · 6.6% &nbsp; **JavaScript** · 6.6% &nbsp; **HTML** · 4.7% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · yesterday
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 3 days ago
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 3 days ago
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 3 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · today
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 4 days ago
+- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 4 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 6 Nov 2026, 02:55 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 7 Nov 2026, 02:15 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
