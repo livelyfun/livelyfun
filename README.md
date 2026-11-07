@@ -241,10 +241,10 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-18-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-19-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-21-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -253,28 +253,15 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
-### [Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge)
-
-Star Hotel and Lodge — Next.js 15 hotel website with staff CMS, Cloudinary media, and Neon Serverless PostgreSQL
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated today</sub>
-
-</td>
-<td width="50%" valign="top">
-
 ### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
 
 Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -283,9 +270,11 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [swing](https://github.com/livelyfun/swing)
@@ -294,11 +283,9 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 5 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
@@ -307,9 +294,11 @@ clinic
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 9 days ago</sub>
+<sub>Updated 10 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -318,7 +307,18 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 13 days ago</sub>
+<sub>Updated 14 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
+
+Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 16 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ practicing git as a begginer
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 60.6% &nbsp; **Python** · 13.9% &nbsp; **C#** · 7.0% &nbsp; **CSS** · 6.6% &nbsp; **JavaScript** · 6.6% &nbsp; **HTML** · 4.7% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 54.8% &nbsp; **Python** · 16.1% &nbsp; **C#** · 8.2% &nbsp; **CSS** · 7.5% &nbsp; **JavaScript** · 7.3% &nbsp; **HTML** · 5.5% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · today
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 2 days ago
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 4 days ago
-- [livelyfun/Star-Hotel-And-Lodge](https://github.com/livelyfun/Star-Hotel-And-Lodge) — 1 commit · 4 days ago
+- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
+- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
+- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
+- [livelyfun/Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina) — 1 commit · 8 days ago
+- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 10 days ago
 
-<sub>🤖 Generated from public GitHub data. Last sync: 7 Nov 2026, 02:15 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 8 Nov 2026, 00:44 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
