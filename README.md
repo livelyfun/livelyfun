@@ -244,7 +244,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
   <img src="https://img.shields.io/badge/Public%20Repos-18-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-21-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-29-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [kira-calculator](https://github.com/livelyfun/kira-calculator)
+
+A project built while learning, experimenting, and shipping.
+
+**Python** · ⭐ 1 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
 
 Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 3 days ago</sub>
+<sub>Updated 4 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -270,11 +283,9 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 3 days ago</sub>
+<sub>Updated 4 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [swing](https://github.com/livelyfun/swing)
@@ -283,9 +294,11 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 6 days ago</sub>
+<sub>Updated 7 days ago</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
@@ -294,11 +307,9 @@ clinic
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 10 days ago</sub>
+<sub>Updated 11 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -307,18 +318,7 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 14 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Melbourne-Property-Management-and-Services-Australia](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
-
-Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, and property maintenance across Melbourne. Service pages, gallery, blog, reviews and quote requests.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 16 days ago</sub>
+<sub>Updated 15 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ Modern Next.js website for MPM Services — steam cleaning, strip &amp; polish, 
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 54.8% &nbsp; **Python** · 16.1% &nbsp; **C#** · 8.2% &nbsp; **CSS** · 7.5% &nbsp; **JavaScript** · 7.3% &nbsp; **HTML** · 5.5% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 52.7% &nbsp; **Python** · 19.3% &nbsp; **C#** · 7.8% &nbsp; **CSS** · 7.3% &nbsp; **JavaScript** · 7.0% &nbsp; **HTML** · 5.3% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
-- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
-- [livelyfun/swing](https://github.com/livelyfun/swing) — 1 commit · 6 days ago
-- [livelyfun/Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina) — 1 commit · 8 days ago
-- [livelyfun/Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic) — 1 commit · 10 days ago
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
 
-<sub>🤖 Generated from public GitHub data. Last sync: 8 Nov 2026, 00:44 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 9 Nov 2026, 00:43 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
