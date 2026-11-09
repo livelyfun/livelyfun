@@ -241,10 +241,10 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 ## 📊 GitHub Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Public%20Repos-18-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-29-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-32-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -253,9 +253,33 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [Prism-Files-A-Premium-Android-File-Manager](https://github.com/livelyfun/Prism-Files-A-Premium-Android-File-Manager)
+
+Prism Files is a modern Android file manager crafted with a harmonious fusion of Skeuomorphism, Neumorphism, and Glassmorphism, powered by an AES-256-GCM Hardware-Backed Encrypted Vault.
+
+**Kotlin** · ⭐ 0 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [mithi](https://github.com/livelyfun/mithi)
+
+practicing git as a begginer 
+
+**JavaScript** · ⭐ 1 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [kira-calculator](https://github.com/livelyfun/kira-calculator)
 
-A project built while learning, experimenting, and shipping.
+A secure, cross-platform desktop calculator built with Python and PySide6, featuring standard, scientific, programmer, and unit-converter modes with native Linux, Windows, and macOS builds.
 
 **Python** · ⭐ 1 · 🍴 0
 
@@ -270,7 +294,7 @@ Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 5 days ago</sub>
 
 </td>
 </tr>
@@ -283,7 +307,7 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 4 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -294,31 +318,7 @@ A project built while learning, experimenting, and shipping.
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 7 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Om-sai-adarsha-clinic](https://github.com/livelyfun/Om-sai-adarsha-clinic)
-
-clinic
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 11 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**JavaScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 15 days ago</sub>
+<sub>Updated 8 days ago</sub>
 
 </td>
 </tr>
@@ -326,17 +326,17 @@ practicing git as a begginer
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 52.7% &nbsp; **Python** · 19.3% &nbsp; **C#** · 7.8% &nbsp; **CSS** · 7.3% &nbsp; **JavaScript** · 7.0% &nbsp; **HTML** · 5.3% &nbsp; **Shell** · 0.4% &nbsp; **PowerShell** · 0.2%
+**TypeScript** · 50.0% &nbsp; **Python** · 18.3% &nbsp; **C#** · 7.4% &nbsp; **CSS** · 6.9% &nbsp; **JavaScript** · 6.7% &nbsp; **Kotlin** · 5.3% &nbsp; **HTML** · 5.1% &nbsp; **Shell** · 0.4%
 
 ## 🔥 Recent Public Activity
 
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
 - [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
 
-<sub>🤖 Generated from public GitHub data. Last sync: 9 Nov 2026, 00:43 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 10 Nov 2026, 05:16 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
