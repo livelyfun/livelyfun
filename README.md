@@ -244,7 +244,7 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
   <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-32-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-35-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -253,15 +253,28 @@ I'm open to **full-stack**, **backend**, and **AI engineering** opportunities wh
 <tr>
 <td width="50%" valign="top">
 
+### [AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio)
+
+An end-to-end AI platform to automatically generate, edit, and export viral short-form videos for Instagram Reels, YouTube Shorts, and TikTok.
+
+**C** · ⭐ 1 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
 ### [Prism-Files-A-Premium-Android-File-Manager](https://github.com/livelyfun/Prism-Files-A-Premium-Android-File-Manager)
 
 Prism Files is a modern Android file manager crafted with a harmonious fusion of Skeuomorphism, Neumorphism, and Glassmorphism, powered by an AES-256-GCM Hardware-Backed Encrypted Vault.
 
 **Kotlin** · ⭐ 0 · 🍴 0
 
-<sub>Updated today</sub>
+<sub>Updated yesterday</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [mithi](https://github.com/livelyfun/mithi)
@@ -270,11 +283,9 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated today</sub>
+<sub>Updated yesterday</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [kira-calculator](https://github.com/livelyfun/kira-calculator)
@@ -283,9 +294,11 @@ A secure, cross-platform desktop calculator built with Python and PySide6, featu
 
 **Python** · ⭐ 1 · 🍴 0
 
-<sub>Updated today</sub>
+<sub>Updated yesterday</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
@@ -294,11 +307,9 @@ Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 5 days ago</sub>
+<sub>Updated 6 days ago</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
@@ -310,33 +321,22 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 <sub>Updated 6 days ago</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### [swing](https://github.com/livelyfun/swing)
-
-A project built while learning, experimenting, and shipping.
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
 </tr>
 </table>
 
 ## 💻 Most Used Languages
 
-**TypeScript** · 50.0% &nbsp; **Python** · 18.3% &nbsp; **C#** · 7.4% &nbsp; **CSS** · 6.9% &nbsp; **JavaScript** · 6.7% &nbsp; **Kotlin** · 5.3% &nbsp; **HTML** · 5.1% &nbsp; **Shell** · 0.4%
+**TypeScript** · 45.2% &nbsp; **Python** · 16.5% &nbsp; **C** · 10.0% &nbsp; **C#** · 6.7% &nbsp; **CSS** · 6.2% &nbsp; **JavaScript** · 6.0% &nbsp; **Kotlin** · 4.8% &nbsp; **HTML** · 4.6%
 
 ## 🔥 Recent Public Activity
 
+- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · today
 - [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · today
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
-- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · 2 days ago
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · 2 days ago
 - [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
 
-<sub>🤖 Generated from public GitHub data. Last sync: 10 Nov 2026, 05:16 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 11 Nov 2026, 02:42 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
