@@ -21,4 +21,15 @@
 <img src="assets/project-03.svg" width="49%" alt="YT Downloader" />
 <img src="assets/project-04.svg" width="49%" alt="AI Reel Studio" />
 
+<h2>Trophies</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=livelyfun&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<h2>Contribution snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+</picture>
+
 </div>
