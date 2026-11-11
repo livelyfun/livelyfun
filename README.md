@@ -1,126 +1,365 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&section=header&text=Mithlesh%20Kumar%20Das&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20AI%20%26%20Systems&descAlignY=67&descSize=16&color=0:0F172A,100:1D4ED8" alt="Mithlesh Kumar Das — Software Developer" />
+<a href="https://github.com/livelyfun">
+  <img src="https://komarev.com/ghpvc/?username=livelyfun&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/livelyfun?tab=followers">
+  <img src="https://img.shields.io/github/followers/livelyfun?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+</a>
 
-<p>
-  <strong>I build software that has to work beyond the demo.</strong><br />
-  Production-minded web systems, backend platforms, AI workflows, and native applications.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1F6FEB,100:0D1117&height=160&section=header&text=Mithlesh%20Kumar%20Das&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%2F%20RAG&descSize=15&descAlignY=58&descColor=79C0FF" alt="header" />
 
-<p>
-  <a href="https://mithi-rho.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mithlesh-das-dev/">LinkedIn</a> ·
-  <a href="https://x.com/mithlesh_codes">X</a> ·
-  <a href="mailto:mithleshkumardas527@gmail.com">Email</a>
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+production+systems;Monitoring+%C2%B7+ERPs+%C2%B7+AI+pipelines;Always+learning.+Always+shipping." alt="typing" />
 
 </div>
 
 ---
 
-## About
+# 👨‍💻 About Me
 
-I'm **Mithlesh**, a software developer and BIT undergraduate based in **Biratnagar, Nepal**. I work across full-stack development, backend engineering, AI/RAG integrations, and developer tooling.
+## Mithlesh Kumar Das
 
-My focus is on building complete systems: understanding the problem, designing the architecture, implementing the product, and making sure it behaves reliably in real use. I enjoy moving between web applications, data-heavy business platforms, AI pipelines, and native desktop or Android software.
+**Software Developer**  
+**Full-Stack · AI Engineering · Backend Systems**
 
-> `ship → break → understand → fix → improve`
+**Biratnagar, Nepal · BIT undergrad**
 
-## What I build
+---
 
-| Area | Focus |
-| --- | --- |
-| **Full-stack products** | Business platforms, dashboards, CMS workflows, and responsive web applications |
-| **Backend & data systems** | APIs, PostgreSQL, authentication, domain modeling, inventory, and operational workflows |
-| **AI & automation** | Gemini integrations, RAG pipelines, retrieval workflows, and process automation |
-| **Native applications** | Linux desktop software, Android apps, packaging, and local-first tooling |
+I enjoy building complete software systems — from backend architecture and operational tooling to full-stack products and AI-assisted pipelines.
 
-## Selected work
+- 🎓 **Degree / Field:** BIT undergrad — software development & systems
+- 🏆 **Focus:** Production systems that run in the real world (ERPs, monitoring, business platforms)
+- 🎯 **Focus Areas:** Full-Stack, Backend Architecture, AI / RAG, Monitoring, Developer Tooling
+- 🔁 **Loop:** `ship → break → understand → fix → improve`
+- 📬 **Contact:** [mithleshkumardas527@gmail.com](mailto:mithleshkumardas527@gmail.com)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 AI Reel Studio</h3>
-      <p>A native Linux application for planning, editing, previewing, and exporting AI-assisted short-form videos. Integrates configurable AI providers with a local multimedia pipeline.</p>
-      <p><sub>C17 · GTK4 · GStreamer · FFmpeg · SQLite · Gemini · OpenRouter</sub></p>
-      <a href="https://github.com/livelyfun/AI-Reel-Studio">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗂️ Prism Files</h3>
-      <p>An Android file manager combining tactile file browsing with a private encrypted vault, biometric access, and local-first file organization.</p>
-      <p><sub>Kotlin · Jetpack Compose · Android Keystore · AES-GCM</sub></p>
-      <a href="https://github.com/livelyfun/Prism-Files-A-Premium-Android-File-Manager">Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Release Guardian</h3>
-      <p>Self-hosted synthetic monitoring and release verification with HTTP, browser, and Lighthouse checks, regression detection, deployment correlation, and incident tracking.</p>
-      <p><sub>Python · Playwright · Lighthouse · Docker</sub></p>
-      <a href="https://github.com/livelyfun/Release-Guardian">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Stockpilot</h3>
-      <p>An inventory and stock-management platform covering purchasing, sales, stock ledger operations, weighted-average costing, role-based access, and audit history.</p>
-      <p><sub>C# · ASP.NET Core · PostgreSQL · Docker</sub></p>
-      <a href="https://github.com/livelyfun/Stockpilot">Repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏢 Melbourne Property Management</h3>
-      <p>A production business website with service pages, gallery, blog, reviews, and quote-request workflows.</p>
-      <p><sub>Next.js · TypeScript · React · Vercel</sub></p>
-      <a href="https://mpm-services.vercel.app/">Live site ↗</a> · <a href="https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia">Repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 Kira Calculator</h3>
-      <p>A cross-platform desktop calculator with standard, scientific, programmer, and unit-conversion modes, backed by a constrained expression parser.</p>
-      <p><sub>Python · PySide6 · pytest · GitHub Actions</sub></p>
-      <a href="https://github.com/livelyfun/kira-calculator">Repository ↗</a> · <a href="https://github.com/livelyfun/kira-calculator/releases">Releases ↗</a>
-    </td>
-  </tr>
-</table>
+---
 
-<p><strong>Client work:</strong> I also build and deploy private business systems, including ERP, inventory, hospitality, and workflow-automation solutions. Client code and private repositories are intentionally not linked here.</p>
+## 🌐 Socials
 
-## Technology
-
-<p><strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,c,cs,kotlin" alt="TypeScript, JavaScript, Python, C, C sharp, Kotlin" />
-</p>
-
-<p><strong>Frameworks & application development</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet" alt="React, Next.js, Node.js, and .NET" />
-</p>
-
-<p><strong>Data, infrastructure & tooling</strong><br />
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,linux,git,github" alt="PostgreSQL, Prisma, Docker, Linux, Git, and GitHub" />
-</p>
-
-**Also work with:** GTK4 · Neon · SQLite · Redis · n8n · Playwright · GStreamer · FFmpeg · REST APIs · RAG systems · CI/CD
-
-## Current interests
-
-- Designing reliable AI and retrieval-augmented generation systems.
-- Building practical developer tools and native Linux applications.
-- Improving backend architecture, observability, and release workflows.
-- Shipping accessible, responsive products with thoughtful UI/UX.
-
-## Connect
-
-I'm interested in collaborating on useful software, full-stack products, backend systems, and applied AI engineering.
-
-<p>
-  <a href="https://mithi-rho.vercel.app/">Website</a> ·
-  <a href="https://www.linkedin.com/in/mithlesh-das-dev/">LinkedIn</a> ·
-  <a href="https://x.com/mithlesh_codes">X</a> ·
-  <a href="mailto:mithleshkumardas527@gmail.com">mithleshkumardas527@gmail.com</a>
+<p align="center">
+  <a href="https://mithesh.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mithlesh_codes"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mithleshkumardas527@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/livelyfun"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Release Guardian
+Self-hosted synthetic monitoring and release verification. HTTP, Playwright & Lighthouse checks, regression detection, deployment correlation, and multi-tenant incident tracking.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+[Repository](https://github.com/livelyfun/Release-Guardian)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Stockpilot
+ASP.NET Core inventory & stock management on PostgreSQL: purchases, sales, immutable ledger with weighted-average costing, RBAC, audit trail, and CSV reports. Dockerized.
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+[Repository](https://github.com/livelyfun/Stockpilot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 MPM Services
+Production Next.js website for a Melbourne property management & cleaning business — services, gallery, blog, reviews, and quote requests.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+[Live Demo](https://mpm-services.vercel.app/) · [Repository](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 Water Factory ERP
+Warehouse-scoped inventory, delivery, returns, payments, and operational workflows for a real water business — extended with RAG knowledge flows.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-AI-58A6FF?style=flat-square" />
+</p>
+
+[Repository](https://github.com/livelyfun/stock-management-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 AI Reel Studio
+End-to-end platform that turns a text prompt into Instagram Reels / YouTube Shorts — generation, edit, and export.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
+</p>
+
+[Repository](https://github.com/livelyfun/AI-Reel-Studio)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 StockMatrix
+Multi-market real-time stock dashboard with WebSockets, interactive charts, alerts, and multi-currency support.
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+[Repository](https://github.com/livelyfun/Track-the-stock-market)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+**Frameworks & Runtime**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Data · Infra · Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,react,nextjs,dotnet,fastapi,postgresql,docker,linux,git" />
+</p>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <sub>Building practical software, learning from production, and improving one release at a time.</sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelyfun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=livelyfun&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.devomb.com/?username=livelyfun&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</p>
+
+---
+
+## 💻 Spent My Time
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## Currently Exploring
+
+- 🧠 Retrieval-Augmented Generation (RAG) & knowledge systems
+- 🛡️ Synthetic monitoring & release verification
+- 📦 Inventory / ERP systems with strong domain modeling
+- ⚡ Real-time backends (WebSockets, event-driven flows)
+- ☁️ Production Docker workflows & deployment discipline
+- 🤖 AI-assisted product features in real applications
+- 🚀 High-quality full-stack product engineering
+
+---
+
+## What I'm Looking For
+
+I'm open to **full-stack**, **backend**, and **AI engineering** opportunities where I can contribute to real-world systems, ship useful products, and keep learning from strong engineering teams.
+
+**If you'd like to collaborate, discuss an opportunity, or just connect — feel free to reach out.**
+
+<p align="center">
+  <a href="mailto:mithleshkumardas527@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<!-- AUTO:START -->
+
+## 📊 GitHub Snapshot
+
+<p>
+  <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-35-111827?style=flat-square" />
+</p>
+
+## 🚀 Recent Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio)
+
+An end-to-end AI platform to automatically generate, edit, and export viral short-form videos for Instagram Reels, YouTube Shorts, and TikTok.
+
+**C** · ⭐ 1 · 🍴 0
+
+<sub>Updated today</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Prism-Files-A-Premium-Android-File-Manager](https://github.com/livelyfun/Prism-Files-A-Premium-Android-File-Manager)
+
+Prism Files is a modern Android file manager crafted with a harmonious fusion of Skeuomorphism, Neumorphism, and Glassmorphism, powered by an AES-256-GCM Hardware-Backed Encrypted Vault.
+
+**Kotlin** · ⭐ 0 · 🍴 0
+
+<sub>Updated yesterday</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [mithi](https://github.com/livelyfun/mithi)
+
+practicing git as a begginer 
+
+**JavaScript** · ⭐ 1 · 🍴 0
+
+<sub>Updated yesterday</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [kira-calculator](https://github.com/livelyfun/kira-calculator)
+
+A secure, cross-platform desktop calculator built with Python and PySide6, featuring standard, scientific, programmer, and unit-converter modes with native Linux, Windows, and macOS builds.
+
+**Python** · ⭐ 1 · 🍴 0
+
+<sub>Updated yesterday</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
+
+Digital Marketing Strategist
+
+**TypeScript** · ⭐ 0 · 🍴 0
+
+<sub>Updated 6 days ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
+
+Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
+
+**Python** · ⭐ 0 · 🍴 0
+
+<sub>Updated 6 days ago</sub>
+
+</td>
+</tr>
+</table>
+
+## 💻 Most Used Languages
+
+**TypeScript** · 45.2% &nbsp; **Python** · 16.5% &nbsp; **C** · 10.0% &nbsp; **C#** · 6.7% &nbsp; **CSS** · 6.2% &nbsp; **JavaScript** · 6.0% &nbsp; **Kotlin** · 4.8% &nbsp; **HTML** · 4.6%
+
+## 🔥 Recent Public Activity
+
+- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · today
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · 2 days ago
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · 2 days ago
+- [livelyfun/kira-calculator](https://github.com/livelyfun/kira-calculator) — 1 commit · yesterday
+
+<sub>🤖 Generated from public GitHub data. Last sync: 11 Nov 2026, 02:42 (Asia/Kathmandu).</sub>
+
+<!-- AUTO:END -->
+
+---
+
+# ⭐ Support
+
+**If you find any of these projects useful, consider giving a ⭐.**
+
+Your feedback and suggestions are welcome.
+
+**🧠 Build systems · 💻 Ship products · 📊 Learn from production · 🚀 Improve continuously**
+
+Made with ❤️ for learning, experimentation, and continuous improvement.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+**If you like my work, consider starring the repositories you find useful.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0e75b6&height=100&section=footer&text=Building%20practical%20software%2C%20one%20system%20at%20a%20time.&fontSize=14&fontColor=ffffff&fontAlignY=70" alt="footer" />
+
 </div>
