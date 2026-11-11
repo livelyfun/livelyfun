@@ -23,23 +23,20 @@
 <a href="https://github.com/livelyfun/AI-Reel-Studio"><img src="assets/project-05.svg" width="49%" alt="AI Reel Studio" /></a>
 <a href="https://github.com/livelyfun/Track-the-stock-market"><img src="assets/project-06.svg" width="49%" alt="StockMatrix" /></a>
 
-<h2>Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=livelyfun&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
 <h2>GitHub stats</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=livelyfun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livelyfun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/languages.svg" width="49%" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=livelyfun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/streak.svg" width="100%" alt="Contribution streak" />
+
+<h2>Trophies</h2>
+
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/trophies.svg" width="100%" alt="Trophies" />
 
 <h2>Contribution snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
 
 <img src="assets/exploring.svg" width="100%" alt="Currently exploring and what I'm looking for" />
 

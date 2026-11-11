@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile cards
 
 on:
   schedule:
@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - "README.md"
 
 permissions:
   contents: write
@@ -13,15 +15,27 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: Generate snake SVGs
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#22d3ee&color_empty=#3b3a7a&color_dots=#3b3a7a,#4f46e5,#818cf8,#c084fc,#f472b6
+
+      - name: Generate glass cards (stats, languages, streak, trophies)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-cards.mjs
 
       - name: Publish to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
