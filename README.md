@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-37-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Followers-42-111827?style=flat-square" />
 </p>
 
 ## 🚀 Recent Projects
@@ -65,7 +65,7 @@ An end-to-end AI platform to automatically generate, edit, and export viral shor
 
 **C** · ⭐ 1 · 🍴 0
 
-<sub>Updated yesterday</sub>
+<sub>Updated 2 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +76,7 @@ Prism Files is a modern Android file manager crafted with a harmonious fusion of
 
 **Kotlin** · ⭐ 0 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ practicing git as a begginer
 
 **JavaScript** · ⭐ 1 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@ A secure, cross-platform desktop calculator built with Python and PySide6, featu
 
 **Python** · ⭐ 1 · 🍴 0
 
-<sub>Updated 2 days ago</sub>
+<sub>Updated 3 days ago</sub>
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Digital Marketing Strategist
 
 **TypeScript** · ⭐ 0 · 🍴 0
 
-<sub>Updated 7 days ago</sub>
+<sub>Updated 8 days ago</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -124,7 +124,7 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 **Python** · ⭐ 0 · 🍴 0
 
-<sub>Updated 7 days ago</sub>
+<sub>Updated 8 days ago</sub>
 
 </td>
 </tr>
@@ -136,13 +136,13 @@ Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and
 
 ## 🔥 Recent Public Activity
 
-- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · yesterday
-- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · yesterday
-- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · yesterday
-- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · yesterday
-- [livelyfun/AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
+- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
 
-<sub>🤖 Generated from public GitHub data. Last sync: 12 Nov 2026, 03:14 (Asia/Kathmandu).</sub>
+<sub>🤖 Generated from public GitHub data. Last sync: 13 Nov 2026, 03:17 (Asia/Kathmandu).</sub>
 
 <!-- AUTO:END -->
 
