@@ -30,9 +30,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#22d3ee&color_empty=#3b3a7a&color_dots=#3b3a7a,#4f46e5,#818cf8,#c084fc,#f472b6
+            dist/github-snake.svg?color_snake=#E8956F&color_empty=#F5E6D3&color_dots=#F5E6D3,#FFD6A5,#E8B86D,#E8956F,#D4765A
 
-      - name: Generate glass cards (stats, languages, streak, trophies)
+      - name: Generate illustration cards (stats, languages, streak, trophies)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-cards.mjs
