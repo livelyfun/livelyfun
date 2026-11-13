@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://mithi-rho.vercel.app/"><img src="assets/btn-portfolio.svg" height="48" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
-<a href="https://x.com/mithlesh_codes"><img src="assets/btn-x.svg" height="48" alt="X" /></a>
-<a href="mailto:mithleshkumardas527@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email" /></a>
-<a href="https://github.com/livelyfun"><img src="assets/btn-github.svg" height="48" alt="GitHub" /></a>
+<a href="https://mithi-rho.vercel.app/"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://x.com/mithlesh_codes"><img src="assets/btn-x.svg" height="44" alt="X" /></a>
+<a href="mailto:mithleshkumardas527@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
+<a href="https://github.com/livelyfun"><img src="assets/btn-github.svg" height="44" alt="GitHub" /></a>
 
 <br/><br/>
 

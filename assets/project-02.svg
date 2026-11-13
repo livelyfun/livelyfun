@@ -1,13 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="160" viewBox="0 0 430 160">
-  <defs>
-    <filter id="soft" x="-25%" y="-25%" width="150%" height="150%">
-      <feDropShadow dx="8" dy="8" stdDeviation="10" flood-color="#a3b1c6" flood-opacity="0.5"/>
-      <feDropShadow dx="-6" dy="-6" stdDeviation="10" flood-color="#ffffff" flood-opacity="0.9"/>
-    </filter>
-  </defs>
-  <rect width="430" height="160" rx="24" fill="#e0e5ec" filter="url(#soft)"/>
-  <text x="28" y="42" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="700" fill="#2d3748">Stockpilot</text>
-  <text x="28" y="72" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#5a6a85">Inventory system with immutable ledger,</text>
-  <text x="28" y="92" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#5a6a85">weighted-average costing &amp; audit trail</text>
-  <text x="28" y="128" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#7c8db5">C# · .NET 10 · EF Core · PostgreSQL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="150" viewBox="0 0 430 150">
+  <rect width="430" height="150" rx="20" fill="#FFFFFF" stroke="#F0D9C0" stroke-width="2"/>
+  <circle cx="390" cy="30" r="14" fill="#E8F5E9"/>
+  <text x="390" y="35" font-size="12" text-anchor="middle">📦</text>
+  <text x="24" y="40" font-family="Segoe UI, system-ui, sans-serif" font-size="17" font-weight="700" fill="#2D2A26">Stockpilot</text>
+  <text x="24" y="70" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54">Inventory system with immutable ledger,</text>
+  <text x="24" y="90" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54">weighted-average costing &amp; audit trail</text>
+  <text x="24" y="122" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#8B7355">C# · .NET 10 · EF Core · PostgreSQL</text>
 </svg>
