@@ -1,153 +1,120 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mithlesh Kumar Das, Software Developer" />
-
-<a href="https://mithesh.netlify.app/"><img src="assets/btn-portfolio.svg" height="50" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mithlesh-das-876973343/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
-<a href="https://x.com/mithlesh_codes"><img src="assets/btn-x.svg" height="50" alt="X" /></a>
-<a href="mailto:mithleshkumardas527@gmail.com"><img src="assets/btn-email.svg" height="50" alt="Email" /></a>
-<a href="https://github.com/livelyfun"><img src="assets/btn-github.svg" height="50" alt="GitHub" /></a>
+<img src="assets/header.svg" width="100%" alt="Mithlesh Kumar Das — Software Developer" />
 
 <br/>
 
-<img src="assets/about.svg" width="100%" alt="About me" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-mithi--rho.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://mithi-rho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mithlesh--das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithlesh-das-876973343/)
+[![X](https://img.shields.io/badge/X-@mithlesh__codes-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mithlesh_codes)
+[![Email](https://img.shields.io/badge/Email-mithleshkumardas527%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithleshkumardas527@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-livelyfun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livelyfun)
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack" />
+</div>
 
-<h2>Featured projects</h2>
+---
 
-<a href="https://github.com/livelyfun/Release-Guardian"><img src="assets/project-01.svg" width="49%" alt="Release Guardian" /></a>
-<a href="https://github.com/livelyfun/Stockpilot"><img src="assets/project-02.svg" width="49%" alt="Stockpilot" /></a>
-<a href="https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia"><img src="assets/project-03.svg" width="49%" alt="MPM Services" /></a>
-<a href="https://github.com/livelyfun/stock-management-system"><img src="assets/project-04.svg" width="49%" alt="Water Factory ERP" /></a>
-<a href="https://github.com/livelyfun/AI-Reel-Studio"><img src="assets/project-05.svg" width="49%" alt="AI Reel Studio" /></a>
-<a href="https://github.com/livelyfun/Track-the-stock-market"><img src="assets/project-06.svg" width="49%" alt="StockMatrix" /></a>
+### About
 
-<h2>GitHub stats</h2>
+Software developer from **Biratnagar, Nepal** who designs and ships **complete systems** — not demos.
+
+I work at the intersection of **backend architecture**, **full-stack product development**, **AI / RAG**, and **operational tooling** (monitoring, inventory, release verification).
+
+| | |
+|:--|:--|
+| 📍 Location | Biratnagar, Nepal |
+| 🎓 Education | BIT undergrad — Mahendra Morang Adarsh Multiple Campus |
+| 🔭 Focus | Production systems that run in the real world |
+| 🔁 Loop | `ship → break → understand → fix → improve` |
+| 💼 Open to | Full-stack, Backend, AI Engineering roles & freelance |
+
+**I care about the parts that keep a product correct after launch:** data models, concurrency, role-based access, audit trails, tests, Docker, CI/CD and observability.
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **[Release Guardian](https://github.com/livelyfun/Release-Guardian)** | Self-hosted synthetic monitoring & release verification. HTTP + Playwright + Lighthouse checks, regression detection, deployment correlation, multi-tenant. | Python · FastAPI · Next.js · Playwright · PostgreSQL · Redis · Docker |
+| **[Stockpilot](https://github.com/livelyfun/Stockpilot)** | Inventory & stock control system with immutable ledger, weighted-average costing, concurrency-safe deductions, RBAC & audit trail. | C# · .NET 10 · ASP.NET Core · EF Core · PostgreSQL · Docker |
+| **[MPM Services](https://github.com/livelyfun/Melbourne-Property-Management-and-Services-Australia)** | Production Next.js website for a Melbourne property maintenance business (steam cleaning, strip & polish). SEO + accessibility focused. | Next.js · TypeScript · Vercel |
+| **[Water Factory ERP](https://github.com/livelyfun/stock-management-system)** | Warehouse-scoped inventory, delivery, returns, payments & receivables system with RAG knowledge flows. | Next.js · TypeScript · PostgreSQL · RAG |
+| **[AI Reel Studio](https://github.com/livelyfun/AI-Reel-Studio)** | End-to-end platform that turns a prompt into short-form video (Reels / Shorts / TikTok). | TypeScript · React · Gemini AI |
+| **[StockMatrix](https://github.com/livelyfun/Track-the-stock-market)** | Multi-market real-time stock terminal with WebSocket prices, SVG charts, alerts, i18n & multi-currency. | Python · FastAPI · React · TypeScript · Redis · WebSockets |
+
+<details>
+<summary><b>Client websites & other work</b></summary>
+
+- Gorkhali Gym, Hotel Gorkha, Hotel Mamta and other local Nepali business sites (Next.js + Vercel)
+- Prism Files — modern Android file manager with hardware-backed encrypted vault
+- kira-calculator — cross-platform desktop calculator (Python + PySide6)
+- Smart File Organizer CLI, Git & GitHub tutorials, and more
+
+</details>
+
+---
+
+### Tech Stack
+
+**Languages**  
+`TypeScript` · `Python` · `C#` · `JavaScript` · `SQL` · `Kotlin`
+
+**Frontend**  
+`React` · `Next.js` · `Vite` · `Tailwind CSS` · accessible & responsive UI
+
+**Backend & Data**  
+`Node.js` · `FastAPI` · `ASP.NET Core` · `PostgreSQL` · `Prisma` · `EF Core` · `Redis` · `WebSockets`
+
+**AI**  
+`RAG pipelines` · `Gemini` · prompt engineering · knowledge flows in real products
+
+**DevOps & Quality**  
+`Docker` · `GitHub Actions` · `Playwright` · `Lighthouse` · `xUnit` · `pytest` · Linux
+
+---
+
+### Currently Exploring
+
+- Retrieval-Augmented Generation and production knowledge systems
+- Synthetic monitoring & release verification
+- Inventory / ERP systems with strong domain modeling
+- Real-time backends (WebSockets, event-driven)
+- High-quality full-stack product engineering
+
+**Looking for:** Full-stack, backend and AI engineering roles (or freelance) where I can contribute to real-world systems and ship useful products.
+
+---
+
+### GitHub Stats
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/stats.svg" width="49%" alt="GitHub stats" />
 <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/languages.svg" width="49%" alt="Top languages" />
 
-<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/streak.svg" width="100%" alt="Contribution streak" />
+<br/>
 
-<h2>Trophies</h2>
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/streak.svg" width="100%" alt="Contribution streak" />
 
 <img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/trophies.svg" width="100%" alt="Trophies" />
 
-<h2>Contribution snake</h2>
-
-<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
-
-<img src="assets/exploring.svg" width="100%" alt="Currently exploring and what I'm looking for" />
+<img src="https://raw.githubusercontent.com/livelyfun/livelyfun/output/github-snake.svg" width="100%" alt="Contribution snake" />
 
 </div>
 
-<!-- AUTO:START -->
-
-## 📊 GitHub Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-19-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars-7-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forks-0-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Followers-42-111827?style=flat-square" />
-</p>
-
-## 🚀 Recent Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [AI-Reel-Studio](https://github.com/livelyfun/AI-Reel-Studio)
-
-An end-to-end AI platform to automatically generate, edit, and export viral short-form videos for Instagram Reels, YouTube Shorts, and TikTok.
-
-**C** · ⭐ 1 · 🍴 0
-
-<sub>Updated 2 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Prism-Files-A-Premium-Android-File-Manager](https://github.com/livelyfun/Prism-Files-A-Premium-Android-File-Manager)
-
-Prism Files is a modern Android file manager crafted with a harmonious fusion of Skeuomorphism, Neumorphism, and Glassmorphism, powered by an AES-256-GCM Hardware-Backed Encrypted Vault.
-
-**Kotlin** · ⭐ 0 · 🍴 0
-
-<sub>Updated 3 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [mithi](https://github.com/livelyfun/mithi)
-
-practicing git as a begginer 
-
-**JavaScript** · ⭐ 1 · 🍴 0
-
-<sub>Updated 3 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [kira-calculator](https://github.com/livelyfun/kira-calculator)
-
-A secure, cross-platform desktop calculator built with Python and PySide6, featuring standard, scientific, programmer, and unit-converter modes with native Linux, Windows, and macOS builds.
-
-**Python** · ⭐ 1 · 🍴 0
-
-<sub>Updated 3 days ago</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Rishika-Timashina](https://github.com/livelyfun/Rishika-Timashina)
-
-Digital Marketing Strategist
-
-**TypeScript** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [Release-Guardian](https://github.com/livelyfun/Release-Guardian)
-
-Self-hosted synthetic monitoring and release verification: HTTP, Playwright, and Lighthouse checks, regression detection, deployment correlation, and incident tracking. Multi-tenant, AGPL-3.0, pre-1.0.
-
-**Python** · ⭐ 0 · 🍴 0
-
-<sub>Updated 8 days ago</sub>
-
-</td>
-</tr>
-</table>
-
-## 💻 Most Used Languages
-
-**TypeScript** · 45.2% &nbsp; **Python** · 16.5% &nbsp; **C** · 10.0% &nbsp; **C#** · 6.7% &nbsp; **CSS** · 6.2% &nbsp; **JavaScript** · 6.0% &nbsp; **Kotlin** · 4.8% &nbsp; **HTML** · 4.6%
-
-## 🔥 Recent Public Activity
-
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-- [livelyfun/livelyfun](https://github.com/livelyfun/livelyfun) — 1 commit · yesterday
-
-<sub>🤖 Generated from public GitHub data. Last sync: 13 Nov 2026, 03:17 (Asia/Kathmandu).</sub>
-
-<!-- AUTO:END -->
+---
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting my profile" />
+### Let’s connect
+
+Open to interesting problems in production systems, AI/RAG, and developer tooling.
+
+[Portfolio](https://mithi-rho.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mithlesh-das-876973343/) · [X](https://x.com/mithlesh_codes) · [Email](mailto:mithleshkumardas527@gmail.com)
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
