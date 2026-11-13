@@ -1,24 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="About me">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="About me">
   <title>About me</title>
   <defs>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="10" dy="10" stdDeviation="12" flood-color="#a3b1c6" flood-opacity="0.55"/>
-      <feDropShadow dx="-8" dy="-8" stdDeviation="12" flood-color="#ffffff" flood-opacity="0.9"/>
-    </filter>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e8edf5"/>
-      <stop offset="100%" stop-color="#d6dde8"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF5EB"/>
+      <stop offset="100%" stop-color="#FFE4C9"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="260" rx="32" fill="url(#bg)"/>
-  <rect x="32" y="28" width="836" height="204" rx="26" fill="#e0e5ec" filter="url(#soft)"/>
-  <text x="64" y="68" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="700" fill="#2d3748">About me</text>
-  <text x="64" y="102" font-family="Segoe UI, system-ui, sans-serif" font-size="15" fill="#4a5568">I design and ship complete software systems — from backend architecture</text>
-  <text x="64" y="124" font-family="Segoe UI, system-ui, sans-serif" font-size="15" fill="#4a5568">and operational tooling to full-stack products and AI-assisted pipelines.</text>
-  <circle cx="72" cy="158" r="5" fill="#7c8db5"/>
-  <text x="90" y="163" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Production systems that run in the real world (ERPs, monitoring, platforms)</text>
-  <circle cx="72" cy="186" r="5" fill="#7c8db5"/>
-  <text x="90" y="191" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Full-Stack · Backend Architecture · AI / RAG · Monitoring · Developer Tooling</text>
-  <circle cx="72" cy="214" r="5" fill="#7c8db5"/>
-  <text x="90" y="219" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">ship → break → understand → fix → improve</text>
+  <rect width="900" height="250" rx="28" fill="url(#sky)"/>
+  <rect x="36" y="28" width="828" height="194" rx="22" fill="#FFFFFF" stroke="#F0D9C0" stroke-width="2"/>
+  <ellipse cx="820" cy="180" rx="18" ry="8" fill="#A8D5A2" opacity="0.6"/>
+  <path d="M820 180 Q810 140 820 110 Q830 140 820 180" fill="#7CB67C"/>
+  <path d="M820 150 Q800 130 810 120" fill="none" stroke="#7CB67C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M820 140 Q840 125 830 115" fill="none" stroke="#7CB67C" stroke-width="4" stroke-linecap="round"/>
+  <text x="64" y="70" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="700" fill="#2D2A26">About me</text>
+  <text x="64" y="105" font-family="Segoe UI, system-ui, sans-serif" font-size="15" fill="#5A5048">I design and ship complete software systems — from backend architecture</text>
+  <text x="64" y="128" font-family="Segoe UI, system-ui, sans-serif" font-size="15" fill="#5A5048">and operational tooling to full-stack products and AI-assisted pipelines.</text>
+  <circle cx="72" cy="162" r="5" fill="#FF9AA2"/>
+  <text x="88" y="167" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Production systems that run in the real world</text>
+  <circle cx="72" cy="190" r="5" fill="#A8D5E5"/>
+  <text x="88" y="195" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Full-Stack · Backend · AI / RAG · Monitoring · Developer Tooling</text>
 </svg>

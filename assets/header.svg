@@ -1,41 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Mithlesh Kumar Das, Software Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Mithlesh Kumar Das">
   <title>Mithlesh Kumar Das — Software Developer</title>
   <defs>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="10" dy="10" stdDeviation="12" flood-color="#a3b1c6" flood-opacity="0.55"/>
-      <feDropShadow dx="-8" dy="-8" stdDeviation="12" flood-color="#ffffff" flood-opacity="0.9"/>
-    </filter>
-    <filter id="soft-sm" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="5" dy="5" stdDeviation="6" flood-color="#a3b1c6" flood-opacity="0.5"/>
-      <feDropShadow dx="-4" dy="-4" stdDeviation="6" flood-color="#ffffff" flood-opacity="0.95"/>
-    </filter>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e8edf5"/>
-      <stop offset="100%" stop-color="#d6dde8"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF5EB"/>
+      <stop offset="100%" stop-color="#FFE4C9"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFF8F0"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="280" rx="32" fill="url(#bg)"/>
-  <rect x="36" y="36" width="828" height="208" rx="28" fill="#e0e5ec" filter="url(#soft)"/>
-  <rect x="72" y="58" width="120" height="28" rx="14" fill="#e0e5ec" filter="url(#soft-sm)"/>
-  <text x="132" y="77" font-family="Segoe UI, system-ui, sans-serif" font-size="13" font-weight="600" fill="#5a6a85" text-anchor="middle">SOFTWARE DEV</text>
-  <text x="72" y="130" font-family="Segoe UI, system-ui, sans-serif" font-size="42" font-weight="700" fill="#2d3748">Mithlesh Kumar Das</text>
-  <text x="72" y="168" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="400" fill="#5a6a85">Full-Stack · Backend · AI / RAG · Monitoring</text>
-  <g filter="url(#soft-sm)">
-    <rect x="72" y="190" width="92" height="28" rx="14" fill="#e0e5ec"/>
-    <text x="118" y="209" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#4a5568" text-anchor="middle">Backend</text>
-  </g>
-  <g filter="url(#soft-sm)">
-    <rect x="176" y="190" width="96" height="28" rx="14" fill="#e0e5ec"/>
-    <text x="224" y="209" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#4a5568" text-anchor="middle">Full-Stack</text>
-  </g>
-  <g filter="url(#soft-sm)">
-    <rect x="284" y="190" width="86" height="28" rx="14" fill="#e0e5ec"/>
-    <text x="327" y="209" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#4a5568" text-anchor="middle">AI / RAG</text>
-  </g>
-  <g filter="url(#soft-sm)">
-    <rect x="382" y="190" width="102" height="28" rx="14" fill="#e0e5ec"/>
-    <text x="433" y="209" font-family="Segoe UI, system-ui, sans-serif" font-size="12" fill="#4a5568" text-anchor="middle">Monitoring</text>
-  </g>
-  <circle cx="780" cy="140" r="54" fill="#e0e5ec" filter="url(#soft)"/>
-  <text x="780" y="150" font-family="Consolas, Menlo, monospace" font-size="32" fill="#5a6a85" text-anchor="middle">&lt;/&gt;</text>
+  <rect width="900" height="300" rx="28" fill="url(#sky)"/>
+  <circle cx="80" cy="60" r="40" fill="#FFD6A5" opacity="0.5"/>
+  <circle cx="820" cy="240" r="55" fill="#FFADC6" opacity="0.35"/>
+  <circle cx="750" cy="50" r="28" fill="#B8E0D2" opacity="0.55"/>
+  <rect x="40" y="40" width="820" height="220" rx="24" fill="url(#card)" stroke="#F0D9C0" stroke-width="2"/>
+  <circle cx="140" cy="120" r="38" fill="#F5C6A5"/>
+  <path d="M105 105 Q140 75 175 105 Q165 95 140 95 Q115 95 105 105" fill="#3D2B1F"/>
+  <circle cx="128" cy="118" r="4" fill="#2D2A26"/>
+  <circle cx="152" cy="118" r="4" fill="#2D2A26"/>
+  <path d="M128 135 Q140 145 152 135" fill="none" stroke="#2D2A26" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M105 158 Q140 170 175 158 L180 210 Q140 225 100 210 Z" fill="#6C9BCF"/>
+  <rect x="118" y="195" width="44" height="28" rx="3" fill="#2D2A26"/>
+  <rect x="122" y="198" width="36" height="18" rx="1" fill="#A8D5E5"/>
+  <text x="220" y="105" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700" fill="#2D2A26">Mithlesh Kumar Das</text>
+  <text x="220" y="140" font-family="Segoe UI, system-ui, sans-serif" font-size="18" fill="#6B5E54">Software Developer · Full-Stack · AI / RAG</text>
+  <rect x="220" y="165" width="95" height="30" rx="15" fill="#FFE8D6" stroke="#F0C9A8" stroke-width="1.5"/>
+  <text x="267.5" y="185" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54" text-anchor="middle">Backend</text>
+  <rect x="325" y="165" width="100" height="30" rx="15" fill="#E8F5E9" stroke="#B8D8BA" stroke-width="1.5"/>
+  <text x="375" y="185" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54" text-anchor="middle">Full-Stack</text>
+  <rect x="435" y="165" width="90" height="30" rx="15" fill="#E3F2FD" stroke="#A8C8E0" stroke-width="1.5"/>
+  <text x="480" y="185" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54" text-anchor="middle">AI / RAG</text>
+  <rect x="535" y="165" width="105" height="30" rx="15" fill="#FCE4EC" stroke="#E8B0C0" stroke-width="1.5"/>
+  <text x="587.5" y="185" font-family="Segoe UI, system-ui, sans-serif" font-size="13" fill="#6B5E54" text-anchor="middle">Monitoring</text>
+  <text x="780" y="90" font-size="22" fill="#FFB347">✦</text>
+  <text x="810" y="130" font-size="16" fill="#FF9AA2">✦</text>
+  <text x="760" y="150" font-size="14" fill="#B5EAD7">✦</text>
 </svg>
