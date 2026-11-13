@@ -80,11 +80,13 @@ function write(name, content) {
 }
 
 async function main() {
+  console.log("Token present:", Boolean(TOKEN));
   const user = await github("/users/" + USER);
   const allRepos = await github("/users/" + USER + "/repos?per_page=100&type=owner");
   const repos = allRepos.filter(
-    (r) => r.visibility === "public" && !r.fork && !r.archived && r.full_name !== PROFILE_REPO
+    (r) => !r.private && !r.fork && !r.archived && r.full_name !== PROFILE_REPO
   );
+  console.log("Public repos:", repos.length);
 
   const stars = repos.reduce((s, r) => s + (r.stargazers_count || 0), 0);
 
