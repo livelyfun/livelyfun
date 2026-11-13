@@ -8,6 +8,13 @@ const AUTO_END = "<!-- AUTO:END -->";
 
 const token = process.env.GITHUB_TOKEN || "";
 
+const BADGE = {
+  repos: "FFE8D6",
+  stars: "FFF3E0",
+  forks: "E8F5E9",
+  followers: "FCE4EC",
+};
+
 function headers() {
   return {
     Accept: "application/vnd.github+json",
@@ -27,10 +34,10 @@ async function github(path) {
 
 function escapeHtml(value = "") {
   return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
+    .replaceAll("&", "&")
+    .replaceAll("<", "<")
+    .replaceAll(">", ">")
+    .replaceAll('"', """)
     .replaceAll("'", "&#39;");
 }
 
@@ -55,6 +62,24 @@ function languageLabel(repo) {
   return repo.language || "Mixed / Other";
 }
 
+function badge(label, value, bg) {
+  return (
+    '<img src="https://img.shields.io/badge/' +
+    encodeURIComponent(label) +
+    "-" +
+    encodeURIComponent(String(value)) +
+    "-" +
+    bg +
+    "?style=for-the-badge&labelColor=" +
+    bg +
+    "&color=" +
+    bg +
+    '" alt="' +
+    escapeHtml(label + " " + value) +
+    '" />'
+  );
+}
+
 function renderRecentProjects(repos) {
   if (repos.length === 0) return "_No public projects found yet._";
 
@@ -62,16 +87,30 @@ function renderRecentProjects(repos) {
     const description = escapeHtml(
       repo.description || "A project built while learning, experimenting, and shipping."
     );
+    const shortDesc =
+      description.length > 120 ? description.slice(0, 117) + "…" : description;
 
-    return "<td width=\"50%\" valign=\"top\">\n\n### [" +
-      escapeHtml(repo.name) + "](" + repoUrl(repo) + ")\n\n" +
-      description + "\n\n**" + escapeHtml(languageLabel(repo)) +
-      "** · ⭐ " + repo.stargazers_count + " · 🍴 " + repo.forks_count +
-      "\n\n<sub>Updated " + relativeTime(repo.pushed_at) + "</sub>\n\n</td>";
+    return (
+      '<td width="50%" valign="top">\n\n' +
+      "### [" +
+      escapeHtml(repo.name) +
+      "](" +
+      repoUrl(repo) +
+      ")\n\n" +
+      shortDesc +
+      "\n\n" +
+      "<sub><b>" +
+      escapeHtml(languageLabel(repo)) +
+      "</b> · ⭐ " +
+      repo.stargazers_count +
+      " · Updated " +
+      relativeTime(repo.pushed_at) +
+      "</sub>\n\n</td>"
+    );
   });
 
   while (cells.length < 6) {
-    cells.push("<td width=\"50%\"></td>");
+    cells.push('<td width="50%"></td>');
   }
 
   const rows = [];
@@ -84,35 +123,84 @@ function renderRecentProjects(repos) {
 
 function renderLanguages(languageTotals) {
   const entries = Array.from(languageTotals.entries())
-    .sort(function (a, b) { return b[1] - a[1]; })
+    .sort(function (a, b) {
+      return b[1] - a[1];
+    })
     .slice(0, 8);
 
   if (!entries.length) return "_Language data is not available yet._";
 
-  const total = entries.reduce(function (sum, entry) { return sum + entry[1]; }, 0);
+  const total = entries.reduce(function (sum, entry) {
+    return sum + entry[1];
+  }, 0);
 
-  return entries.map(function (entry) {
-    const name = entry[0];
-    const bytes = entry[1];
-    const pct = ((bytes / total) * 100).toFixed(1);
-    return "**" + escapeHtml(name) + "** · " + pct + "%";
-  }).join(" &nbsp; ");
+  const softColors = [
+    "FFE8D6",
+    "E8F5E9",
+    "E3F2FD",
+    "FCE4EC",
+    "FFF3E0",
+    "E8EAF6",
+    "F3E5F5",
+    "E0F2F1",
+  ];
+
+  return (
+    "<p>\n" +
+    entries
+      .map(function (entry, i) {
+        const name = entry[0];
+        const bytes = entry[1];
+        const pct = ((bytes / total) * 100).toFixed(1);
+        const bg = softColors[i % softColors.length];
+        return (
+          '<img src="https://img.shields.io/badge/' +
+          encodeURIComponent(name) +
+          "-" +
+          encodeURIComponent(pct + "%") +
+          "-" +
+          bg +
+          "?style=for-the-badge&labelColor=" +
+          bg +
+          "&color=" +
+          bg +
+          '" alt="' +
+          escapeHtml(name + " " + pct + "%") +
+          '" />'
+        );
+      })
+      .join("\n") +
+    "\n</p>"
+  );
 }
 
 function renderActivity(events) {
   const pushes = events
-    .filter(function (event) { return event.type === "PushEvent" && event.repo && event.repo.name; })
+    .filter(function (event) {
+      return event.type === "PushEvent" && event.repo && event.repo.name;
+    })
     .slice(0, 5);
 
   if (!pushes.length) return "_No recent public push activity available._";
 
-  return pushes.map(function (event) {
-    const rawCommits = event.payload && event.payload.commits;
-    const count = Array.isArray(rawCommits) ? rawCommits.length : 1;
-    return "- [" + escapeHtml(event.repo.name) + "](https://github.com/" +
-      escapeHtml(event.repo.name) + ") — " + count + " commit" +
-      (count === 1 ? "" : "s") + " · " + relativeTime(event.created_at);
-  }).join("\n");
+  return pushes
+    .map(function (event) {
+      const rawCommits = event.payload && event.payload.commits;
+      const count = Array.isArray(rawCommits) ? rawCommits.length : 1;
+      return (
+        "- [" +
+        escapeHtml(event.repo.name) +
+        "](https://github.com/" +
+        escapeHtml(event.repo.name) +
+        ") — " +
+        count +
+        " commit" +
+        (count === 1 ? "" : "s") +
+        " · " +
+        relativeTime(event.created_at)
+      );
+    })
+    .join("\n");
 }
 
 async function main() {
@@ -128,23 +216,29 @@ async function main() {
 
   const publicRepos = repos
     .filter(function (repo) {
-      return repo.visibility === "public" &&
+      return (
+        !repo.private &&
         !repo.fork &&
         !repo.archived &&
-        repo.full_name !== PROFILE_REPO;
+        repo.full_name !== PROFILE_REPO
+      );
     })
     .sort(function (a, b) {
       return new Date(b.pushed_at) - new Date(a.pushed_at);
     });
 
   const languageTotals = new Map();
-
-  for (const repo of publicRepos) {
-    const languages = await github("/repos/" + repo.full_name + "/languages");
-    for (const entry of Object.entries(languages)) {
-      const name = entry[0];
-      const bytes = entry[1];
-      languageTotals.set(name, (languageTotals.get(name) || 0) + bytes);
+  const langRepos = publicRepos.slice(0, 12);
+  for (const repo of langRepos) {
+    try {
+      const languages = await github("/repos/" + repo.full_name + "/languages");
+      for (const entry of Object.entries(languages)) {
+        const name = entry[0];
+        const bytes = entry[1];
+        languageTotals.set(name, (languageTotals.get(name) || 0) + bytes);
+      }
+    } catch (e) {
+      console.warn("languages skip", repo.full_name, e.message);
     }
   }
 
@@ -163,21 +257,32 @@ async function main() {
   });
 
   const generated =
-    "## 📊 GitHub Snapshot\n\n" +
+    '<div align="center">\n\n' +
+    "### 📊 GitHub Snapshot\n\n" +
     "<p>\n" +
-    "  <img src=\"https://img.shields.io/badge/Public%20Repos-" + publicRepos.length + "-111827?style=flat-square\" />\n" +
-    "  <img src=\"https://img.shields.io/badge/Stars-" + stars + "-111827?style=flat-square\" />\n" +
-    "  <img src=\"https://img.shields.io/badge/Forks-" + forks + "-111827?style=flat-square\" />\n" +
-    "  <img src=\"https://img.shields.io/badge/Followers-" + (user.followers || 0) + "-111827?style=flat-square\" />\n" +
-    "</p>\n\n" +
-    "## 🚀 Recent Projects\n\n" +
-    renderRecentProjects(publicRepos) + "\n\n" +
-    "## 💻 Most Used Languages\n\n" +
-    renderLanguages(languageTotals) + "\n\n" +
-    "## 🔥 Recent Public Activity\n\n" +
-    renderActivity(events) + "\n\n" +
-    "<sub>🤖 Generated from public GitHub data. Last sync: " +
-    escapeHtml(syncedAt) + " (Asia/Kathmandu).</sub>";
+    badge("Public repos", publicRepos.length, BADGE.repos) +
+    "\n" +
+    badge("Stars", stars, BADGE.stars) +
+    "\n" +
+    badge("Forks", forks, BADGE.forks) +
+    "\n" +
+    badge("Followers", user.followers || 0, BADGE.followers) +
+    "\n</p>\n\n" +
+    "</div>\n\n" +
+    "### 🚀 Recent Projects\n\n" +
+    renderRecentProjects(publicRepos) +
+    "\n\n" +
+    '<div align="center">\n\n' +
+    "### 💻 Most Used Languages\n\n" +
+    renderLanguages(languageTotals) +
+    "\n\n" +
+    "</div>\n\n" +
+    "### 🔥 Recent Public Activity\n\n" +
+    renderActivity(events) +
+    "\n\n" +
+    '<div align="center">\n<sub>✦ Generated from public GitHub data · Last sync: ' +
+    escapeHtml(syncedAt) +
+    " (Asia/Kathmandu)</sub>\n</div>";
 
   const fs = await import("node:fs/promises");
   const readme = await fs.readFile("README.md", "utf8");
