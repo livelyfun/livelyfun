@@ -39,7 +39,7 @@ function gh(args) {
 }
 
 const esc = (v) =>
-  String(v).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
+  String(v).replaceAll("&", "&").replaceAll("<", "<").replaceAll(">", ">").replaceAll('"', """);
 
 const DEFS = `<defs>
 <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FFF5EB"/><stop offset="100%" stop-color="#FFE4C9"/></linearGradient>
@@ -196,6 +196,17 @@ const langColor = (name, i) => LANG_COLORS[name] || FALLBACK[i % FALLBACK.length
   b += card(30, 30, 840, 180, 22);
   b += t(64, 68, "Trophies", 22, 700, "#2D2A26");
   const RANK = [["-", "#A0AEC0"], ["C", "#6C9BCF"], ["B", "#7CB67C"], ["A", "#E8B86D"], ["S", "#E8A0BF"]];
+
+  const ICONS = {
+    Stars: `<path d="M12 2l2.4 7.2H22l-6 4.8 2.4 7.2L12 16.8 5.6 21.2 8 14 2 9.2h7.6z"/>`,
+    Commits: `<circle cx="12" cy="12" r="3"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4" fill="none"/>`,
+    Followers: `<circle cx="9" cy="8" r="3.5"/><path d="M2 20c0-3.5 3-6 7-6s7 2.5 7 6" fill="none"/><circle cx="17" cy="9" r="2.5"/><path d="M22 20c0-2.5-1.5-4.5-4-5.2" fill="none"/>`,
+    Repos: `<path d="M4 4h12a2 2 0 0 1 2 2v14l-4-3-4 3-4-3-4 3V6a2 2 0 0 1 2-2z" fill="none"/>`,
+    "Pull requests": `<circle cx="6" cy="6" r="2.5"/><circle cx="6" cy="18" r="2.5"/><path d="M6 8.5v7M18 6v8a3 3 0 0 1-3 3h-6" fill="none"/><path d="M15 12l3 3 3-3" fill="none"/>`,
+    Issues: `<circle cx="12" cy="12" r="9" fill="none"/><circle cx="12" cy="12" r="2.5"/><path d="M12 7v2.5" fill="none"/>`,
+    Languages: `<path d="M4 6h16M4 12h10M4 18h14" fill="none" stroke-linecap="round"/>`,
+  };
+
   const metrics = [
     ["Stars", stars, [1, 5, 15, 50]],
     ["Commits", commits, [10, 100, 500, 1500]],
@@ -211,12 +222,11 @@ const langColor = (name, i) => LANG_COLORS[name] || FALLBACK[i % FALLBACK.length
     const x = startX + i * (tileW + gap), cx = x + tileW / 2;
     const rank = th.filter((n) => (value || 0) >= n).length;
     const [letter, color] = RANK[rank];
+    const icon = ICONS[label] || ICONS.Stars;
     b += `<rect x="${x}" y="86" width="${tileW}" height="108" rx="14" fill="#FFF8F0" stroke="#F0D9C0" stroke-width="1.5"/>`;
-    b += `<g transform="translate(${cx - 21.6} 98) scale(1.8)" fill="${color}" fill-opacity="0.25" stroke="${color}" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">`
-      + `<path d="M7 3h10v6a5 5 0 0 1-10 0V3z"/><path d="M7 5H4v2a3 3 0 0 0 3 3" fill="none"/><path d="M17 5h3v2a3 3 0 0 1-3 3" fill="none"/>`
-      + `<path d="M12 14v4M8 20h8" fill="none"/></g>`;
+    b += `<g transform="translate(${cx - 14} 100) scale(1.15)" fill="${color}" fill-opacity="0.2" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${icon}</g>`;
     b += t(x + tileW - 12, 106, letter, 13, 700, color, "end");
-    b += t(cx, 160, label, 13, 700, "#2D2A26", "middle");
+    b += t(cx, 160, label, 12, 700, "#2D2A26", "middle");
     b += t(cx, 180, nf(value), 13, 400, "#6B5E54", "middle");
   });
   write("trophies.svg", svg(W, H, b, "Trophies"));
