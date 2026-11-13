@@ -25,11 +25,6 @@ jobs:
         with:
           node-version: 24
 
-      - name: Set up GitHub CLI
-        uses: cli/gh-action@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -42,8 +37,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          which gh || true
-          gh --version || true
+          set -e
+          echo "=== debug ==="
+          which gh || echo "gh not found"
+          gh --version || echo "gh version failed"
+          echo "GH_TOKEN set: ${GH_TOKEN:+yes}"
+          echo "=== run cards ==="
           node scripts/generate-cards.mjs
 
       - name: Publish to the output branch
