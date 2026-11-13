@@ -1,31 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="Currently exploring and what I'm looking for">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Currently exploring">
   <title>Currently exploring</title>
   <defs>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="10" dy="10" stdDeviation="12" flood-color="#a3b1c6" flood-opacity="0.55"/>
-      <feDropShadow dx="-8" dy="-8" stdDeviation="12" flood-color="#ffffff" flood-opacity="0.9"/>
-    </filter>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e8edf5"/>
-      <stop offset="100%" stop-color="#d6dde8"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF5EB"/>
+      <stop offset="100%" stop-color="#FFE4C9"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="380" rx="32" fill="url(#bg)"/>
-  <rect x="32" y="28" width="836" height="324" rx="26" fill="#e0e5ec" filter="url(#soft)"/>
-  <text x="64" y="70" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="700" fill="#2d3748">Currently exploring</text>
-  <circle cx="72" cy="104" r="5" fill="#7c8db5"/>
-  <text x="90" y="109" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Retrieval-Augmented Generation (RAG) and knowledge systems</text>
-  <circle cx="72" cy="132" r="5" fill="#7c8db5"/>
-  <text x="90" y="137" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Synthetic monitoring and release verification</text>
-  <circle cx="72" cy="160" r="5" fill="#7c8db5"/>
-  <text x="90" y="165" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Inventory / ERP systems with strong domain modeling</text>
-  <circle cx="72" cy="188" r="5" fill="#7c8db5"/>
-  <text x="90" y="193" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Real-time backends: WebSockets and event-driven flows</text>
-  <circle cx="72" cy="216" r="5" fill="#7c8db5"/>
-  <text x="90" y="221" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Production Docker workflows and deployment discipline</text>
-  <circle cx="72" cy="244" r="5" fill="#7c8db5"/>
-  <text x="90" y="249" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">AI-assisted product features in real applications</text>
-  <line x1="64" y1="278" x2="836" y2="278" stroke="#c5cedb" stroke-width="1.5"/>
-  <text x="64" y="314" font-family="Segoe UI, system-ui, sans-serif" font-size="20" font-weight="700" fill="#2d3748">What I'm looking for</text>
-  <text x="64" y="342" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#4a5568">Full-stack, backend and AI engineering roles where I can contribute to real-world systems and ship useful products.</text>
+  <rect width="900" height="360" rx="28" fill="url(#sky)"/>
+  <rect x="36" y="28" width="828" height="304" rx="22" fill="#FFFFFF" stroke="#F0D9C0" stroke-width="2"/>
+  <circle cx="820" cy="70" r="22" fill="#FFD6A5" opacity="0.7"/>
+  <text x="820" y="78" font-size="20" text-anchor="middle">🚀</text>
+  <text x="64" y="68" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="700" fill="#2D2A26">Currently exploring</text>
+  <circle cx="72" cy="100" r="5" fill="#FF9AA2"/>
+  <text x="90" y="105" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Retrieval-Augmented Generation (RAG) and knowledge systems</text>
+  <circle cx="72" cy="128" r="5" fill="#A8D5E5"/>
+  <text x="90" y="133" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Synthetic monitoring and release verification</text>
+  <circle cx="72" cy="156" r="5" fill="#B5EAD7"/>
+  <text x="90" y="161" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Inventory / ERP systems with strong domain modeling</text>
+  <circle cx="72" cy="184" r="5" fill="#FFDAC1"/>
+  <text x="90" y="189" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Real-time backends: WebSockets and event-driven flows</text>
+  <circle cx="72" cy="212" r="5" fill="#C7CEEA"/>
+  <text x="90" y="217" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Production Docker workflows and deployment discipline</text>
+  <circle cx="72" cy="240" r="5" fill="#FF9AA2"/>
+  <text x="90" y="245" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">AI-assisted product features in real applications</text>
+  <line x1="64" y1="270" x2="836" y2="270" stroke="#F0D9C0" stroke-width="1.5"/>
+  <text x="64" y="304" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="700" fill="#2D2A26">What I'm looking for</text>
+  <text x="64" y="328" font-family="Segoe UI, system-ui, sans-serif" font-size="14" fill="#5A5048">Full-stack, backend and AI engineering roles where I can contribute to real-world systems.</text>
 </svg>
